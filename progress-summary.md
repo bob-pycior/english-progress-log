@@ -1,6 +1,6 @@
 # English Progress Summary — Bob
 
-Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md), for uploading to Claude Project knowledge so Claude can read it at the start of each session.
+Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://raw.githubusercontent.com/bob-pycior/english-progress-log/main/progress-summary.md so Claude can read it automatically at the start of each session.
 
 Last synced: 2026-09-22
 
