@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://raw.githubusercontent.com/bob-pycior/english-progress-log/main/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-09-22
+Last synced: 2026-09-24
 
 ---
 
@@ -17,8 +17,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 | 3 | Present continuous vs. present simple contrast | 2026-09-16 | Verb form after "usually" (e.g. "usually cooking" instead of "usually cook"); prepositions (e.g. "at the garden" instead of "in the garden", "in personal" instead of "in person"); recurring "peoples" instead of "people"; 3rd person singular agreement (e.g. "she usually wake up" instead of "she usually wakes up") |
 | 4 | Verbs not normally used in the continuous form (know, want, need, believe, understand, remember, belong, contain, consist, depend, seem, prefer) | 2026-09-21 | **Two main recurring patterns to target next — came up repeatedly across all rounds:** (1) 3rd person singular agreement, missing -s (e.g. "understand" instead of "understands"); (2) do/does question formation (do with singular subjects, does with plural; extra -s after does, e.g. "does he needs" instead of "does he need"). Also: missing possessive apostrophe-s ("people problems" instead of "people's problems", "team budget" instead of "team's budget"); missing/wrong articles ("new employee" instead of "a new employee"); occasional vocabulary mix-ups (advertise vs. advertisement, consist of vs. contains from). A focused do-vs-does oral drill (2 rounds, no translation) was already conducted this session — Bob reported not yet fully comfortable with it, so **flag do/does question formation for continued practice in upcoming sessions.** |
 | 5 | Past simple (regular/irregular verbs; positive/negative/question forms; didn't + base form) | 2026-09-22 | Strong session — 15/15 translation sentences, mostly correct first try. Recurring: article errors with non-specific/uncountable nouns (e.g. "the interesting movie" instead of "an interesting movie", "the coffee and tea" instead of "coffee and tea"); irregular past tense mix-ups under pressure ("both" for "bought", "bring" not converted to "brought") — both self-corrected after a hint; tense mismatch in subordinate clauses (e.g. "before we leave" instead of "before we left"). do/does question formation (flagged in Unit 4) was not specifically retested this session. |
+| 6 | Past continuous (was/were + -ing; interrupted actions with past simple) | 2026-09-24 | Strong session — 5/5 translation sentences correct, all oral drills eventually correct, good self-correction throughout. Recurring: article errors with meals ("a dinner" instead of "dinner", occurred twice); subject-verb agreement ("they was working" instead of "they were working"); vague time expressions ("at night" instead of a specific hour, needed prompting); early construction slips mixing up which clause takes past continuous vs. past simple in interrupted-action sentences, resolved with guided correction. **Units 1–6 (present/past tense group) now COMPLETE** — next: Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s) before starting Unit 7. |
 
-**Next up:** Unit 6 (Past Continuous) — completes the present/past tenses block. After Unit 6, run Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s).
+**Next up:** Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s), then Unit 7. Also pending: resume Callan Book 1 material (last real book content: "how many... are there" questions), an overdue baseline speaking check (~monthly cadence), and a requested British expressions/colloquialisms lesson.
 
 ---
 
@@ -151,6 +152,25 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
     - Tense mismatch in subordinate clause: "before we leave" instead of "before we left"
   - Callan: no new Callan book material this session (focus was Murphy Unit 5).
   - Next steps: Unit 6 (Past Continuous) is next, completing the present/past tenses block. After Unit 6, run Murphy's "Additional Exercises" mixed review drill (Units 1–6, pages ~300s). Bob is going on holiday — next session may be delayed; resume with Unit 6 when back.
+
+---
+
+- **2026-09-24:**
+  - Grammar: Murphy Unit 6 (past continuous — was/were + -ing; interrupted actions with past simple) — COMPLETED. Covered theory (past continuous for actions in progress at a specific past moment; "when" + past simple for interruption). Warm-up drill on irregular past simple verbs (ate, went, bought, woke up) — all correct after self-correction. Extensive oral drilling on interrupted-action sentences ("I was walking my dog when it started raining", "I was reading when I fell asleep", "the lights went out when I was cooking dinner"). Five Polish-to-English translation sentences.
+  - Polish-to-English sentences used (avoid repeating):
+    1. Kiedy zadzwoniłeś, spałem. → I was sleeping when you called me.
+    2. Ona czytała książkę, kiedy zaczęło padać. → She was reading when it started raining.
+    3. Co robiłeś wczoraj o dziewiątej wieczorem? → What were you doing yesterday at nine?
+    4. Podczas gdy oni pracowali, ja gotowałem obiad. → While they were working, I was cooking dinner.
+    5. Byłem w parku, kiedy zobaczyłem mojego przyjaciela. → I was at the park when I saw my friend.
+  - Result: Strong session — 5/5 translation sentences correct, all oral drills eventually correct, good self-correction throughout.
+  - Errors:
+    - Article errors with meals: "a dinner" instead of "dinner" (occurred twice, self-corrected quickly both times)
+    - Subject-verb agreement: "they was working" instead of "they were working"
+    - Preposition/time expression: "at night" used instead of a specific hour; needed prompting to include "at nine" for "o dziewiątej"
+    - Early construction slips on interrupted-action sentences (mixing up which clause should be past continuous vs. past simple) — resolved with guided correction
+  - Callan: Rapid Q&A drill (not from book, freeform) focused on past continuous — five questions, all answered correctly, including one humorous aside from Bob about colleagues "clicking on computers."
+  - Next steps: Units 1–6 present/past tense group now COMPLETE. Next session: run Murphy's "Additional Exercises" mixed review drill (Units 1–6, pages ~300s) before moving on to Unit 7. Resume Callan Stage 1, Book 1 book material (last real book content: "how many... are there" questions) — still pending. Baseline speaking check is overdue (roughly monthly cadence) — should be run soon. British expressions/colloquialisms lesson still requested but not yet delivered.
 
 ---
 
