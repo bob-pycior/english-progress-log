@@ -1,8 +1,8 @@
 # English Progress Summary — Bob
 
-Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://raw.githubusercontent.com/bob-pycior/english-progress-log/main/progress-summary.md so Claude can read it automatically at the start of each session.
+Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-09-24
+Last synced: 2026-10-15
 
 ---
 
@@ -19,7 +19,11 @@ Tracks units completed, when, and recurring errors seen in each unit.
 | 5 | Past simple (regular/irregular verbs; positive/negative/question forms; didn't + base form) | 2026-09-22 | Strong session — 15/15 translation sentences, mostly correct first try. Recurring: article errors with non-specific/uncountable nouns (e.g. "the interesting movie" instead of "an interesting movie", "the coffee and tea" instead of "coffee and tea"); irregular past tense mix-ups under pressure ("both" for "bought", "bring" not converted to "brought") — both self-corrected after a hint; tense mismatch in subordinate clauses (e.g. "before we leave" instead of "before we left"). do/does question formation (flagged in Unit 4) was not specifically retested this session. |
 | 6 | Past continuous (was/were + -ing; interrupted actions with past simple) | 2026-09-24 | Strong session — 5/5 translation sentences correct, all oral drills eventually correct, good self-correction throughout. Recurring: article errors with meals ("a dinner" instead of "dinner", occurred twice); subject-verb agreement ("they was working" instead of "they were working"); vague time expressions ("at night" instead of a specific hour, needed prompting); early construction slips mixing up which clause takes past continuous vs. past simple in interrupted-action sentences, resolved with guided correction. **Units 1–6 (present/past tense group) now COMPLETE** — next: Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s) before starting Unit 7. |
 
-**Next up:** Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s), then Unit 7. Also pending: resume Callan Book 1 material (last real book content: "how many... are there" questions), an overdue baseline speaking check (~monthly cadence), and a requested British expressions/colloquialisms lesson.
+## Revision log
+
+- **2026-10-15 — Units 1–6 oral revision (2 rounds, Callan-style Q&A, no translation).** Bob chose a slow approach: more rounds of the same drills before mixing tenses or starting Unit 7. Most frequent errors: articles (extra "the" with plural/non-specific nouns, missing a/an); "in the morning" and other prepositions; 3rd person -s with "game/team" subjects; dropped subject "I" (3 times); present simple (routines) vs. present continuous (now) mixed up in Units 2–3. Strengths: high self-correction rate and long, spontaneous, complex sentences. **Gap:** the tutor asked all the questions, so Bob's own do/does question formation was still not tested — next round, Bob should ask the questions. Embedded questions ("could you tell me whether/if...") surfaced as an error; revisit when Murphy reaches them.
+
+**Next up:** more Units 1–6 revision drills (Bob chose a slow approach; have Bob ask the questions to test do/does), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson.
 
 ---
 
@@ -174,6 +178,65 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-15** (lesson done in claude.ai chat, synced here afterwards):
+  - Grammar: Revision of Murphy Units 1-6, done as two full oral rounds, tense by tense (Unit 1 → 6, then again). Callan-style rapid Q&A only, no Polish translation sentences. Bob chose a slow, calm approach: more rounds of the same drills before mixing tenses or starting Unit 7.
+  - Questions used (avoid repeating exactly):
+    - Round 1:
+      - U1: What am I doing right now? / What are your dogs doing? / Is it raining outside? / What are you doing besides talking to me? / Are we speaking Polish?
+      - U2: What language do you speak at home? / Does your studio make mobile games? / Do you usually work with a big team? / What time do you usually start work?
+      - U3: What do you usually drink in the mornings, and what are you drinking now? / What are you doing now, and what do you usually do at this time of day?
+      - U4: Do you need anything right now? / Do you understand the rules of English grammar? / What does your studio need to finish a game faster? / Do you believe this practice is helping? / Who does your team's success depend on?
+      - U5: What did you do yesterday evening? / Did you eat breakfast this morning? / Where did you buy your last phone? / What time did you wake up?
+      - U6: What were you doing at eight this morning? / What was happening outside when you woke up? / What were your dogs doing while you had breakfast?
+    - Round 2:
+      - U1: What's the weather doing? / Are your dogs barking? / What are you wearing right now?
+      - U2: What does a typical workday look like?
+      - U3: What do you usually eat for lunch, and what are you eating today?
+      - U4: Do you prefer tea or coffee? / What does a good mobile game need to be successful?
+      - U5: What did you have for breakfast? / When did you last play a mobile game for fun? / Did you talk to your team yesterday?
+      - U6: What were you working on at this time yesterday? / What was your team doing when you left the office? / What were you thinking about while driving home?
+  - Errors (nearly all self-corrected after being flagged):
+    - Round 1:
+      - "I don't do, I don't doing anything" → "I'm not doing anything" (U1)
+      - "at the morning" / "on the morning" → "in the morning" (U2, again in U3; needed several attempts and a hint)
+      - "now I don't drink anything" → present continuous for "right now" (U3)
+      - "I read the books" → "I read books" (U3)
+      - "I don't understand rules of English grammar" → missing "the" (U4)
+      - "My team success depend" → "My team's success depends" (U4)
+      - "from internet" → "from the internet" (U5)
+      - "at eight o'clock in this morning" → "this morning" takes no preposition (U5)
+      - "was sleeping" → missing subject "I" (U6)
+      - "particular interesting" → "particularly interesting" (U6)
+    - Round 2:
+      - "the black trousers and the black sport t-shirt" → "black trousers and a black t-shirt" (U1)
+      - "I woke up at eight" → "I wake up" (past instead of present simple for routine) (U2)
+      - "I'm washing my teeth" → "I brush my teeth" (continuous instead of simple, plus vocabulary) (U2)
+      - "I'm going for work" → "I go to work" (tense plus preposition) (U2)
+      - "today I ate the same" → "I'm eating" (past instead of present continuous) (U3)
+      - "sandwich" / "the sandwich" → "a sandwich" (article) (U3)
+      - "prefer coffee" → missing subject "I" (U4)
+      - "mobile game need" → "needs" (3rd person -s, repeated twice) (U4)
+      - "appealing theme" → "an appealing theme" (needed several attempts) (U4)
+      - "didn't have breakfast" → missing subject "I" (flagged twice) (U5)
+      - "when I was play" → "when I played" (U5)
+      - "I wasn't work" → "I wasn't working" (U6)
+      - "making the games" → "making games" (U6)
+      - "engage for significant things for my life" → "engage with significant things in my life" (U6)
+    - Embedded question (not a Murphy unit yet): "could you tell me is the word revision is correct" → needs "whether/if" and statement word order. After three attempts the answer was given. Revisit when Murphy reaches embedded questions.
+  - Patterns across the session:
+    - Articles were the most frequent error (extra "the" with plural/non-specific nouns, missing a/an).
+    - "in the morning" and other prepositions kept recurring.
+    - 3rd person -s with "game/team" subjects.
+    - Dropped subject "I" three times.
+    - Present simple (routines) vs present continuous (now) was mixed up several times in Unit 2-3.
+    - Strengths: high self-correction rate, and Bob produced long, spontaneous, complex sentences (e.g. "A successful mobile game needs to have sticky mechanics and an appealing theme...").
+  - Gap noted: the tutor asked all the questions this round, so Bob's own do/does question formation (flagged in Unit 4) was not tested. Next round, have Bob ask the questions.
+  - Callan: no book material. Stage 1, Book 1 position unchanged ("how many... are there"). This session used Callan-style Q&A only.
+  - Vocabulary encountered: revision, brush (your teeth), particularly, engage with, stare at (added to vocabulary.md).
+  - Next steps: Bob wants more Units 1-6 drills in the next lessons before moving on. Murphy's Additional Exercises mixed review and Unit 7 are still pending, as are Callan Book 1, the overdue baseline speaking check, and the British expressions lesson.
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 1
@@ -191,4 +254,8 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 | Word | Definition | Date Learned | Context/Example |
 |------|------------|---------------|------------------|
-*(no entries yet)*
+| revision | going over material you already studied (UK) | 2026-10-15 | "I would like to start the revision" |
+| brush (your teeth) | the verb used for teeth, not "wash" | 2026-10-15 | "After that, I brush my teeth." |
+| particularly | especially; adverb before an adjective | 2026-10-15 | "nothing particularly interesting" |
+| engage with | to get involved with something seriously | 2026-10-15 | "engage more with significant things in my life" |
+| stare at | to look at something for a long time | 2026-10-15 | "My dogs were sitting and staring at me." |
