@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-15
+Last synced: 2026-10-16
 
 ---
 
@@ -23,7 +23,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-15 — Units 1–6 oral revision (2 rounds, Callan-style Q&A, no translation).** Bob chose a slow approach: more rounds of the same drills before mixing tenses or starting Unit 7. Most frequent errors: articles (extra "the" with plural/non-specific nouns, missing a/an); "in the morning" and other prepositions; 3rd person -s with "game/team" subjects; dropped subject "I" (3 times); present simple (routines) vs. present continuous (now) mixed up in Units 2–3. Strengths: high self-correction rate and long, spontaneous, complex sentences. **Gap:** the tutor asked all the questions, so Bob's own do/does question formation was still not tested — next round, Bob should ask the questions. Embedded questions ("could you tell me whether/if...") surfaced as an error; revisit when Murphy reaches them.
 
-**Next up:** more Units 1–6 revision drills (Bob chose a slow approach; have Bob ask the questions to test do/does), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson.
+- **2026-10-16 — Second Units 1–6 revision (4 parts: Q&A, Polish→English plain, Polish→English with context and no tense label, Bob asks the questions).** Most persistent problem: present simple vs. present continuous with "usually"/"today". Also: dropped subject "I" (5+ times); articles; "in the morning/evening", "at 100 degrees" prepositions; 3rd person -s with "studio/game/team". **Improvement:** do/does question formation held up well when Bob asked the questions himself; the only slip was "does water boils". Present perfect was previewed once (not yet covered in Murphy). Agreed format for further rounds before Unit 7: A (Q&A) → B (Polish→English) → C (Polish→English, no tense label) → D (Bob asks questions).
+
+**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -237,6 +239,73 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-16** (lesson done in claude.ai chat, synced here afterwards):
+  - Grammar: Second revision session on Murphy Units 1-6, in four parts: (A) Callan-style oral Q&A, tense by tense; (B) Polish→English, one sentence per unit (6); (C) Polish→English with context and no tense label (6); (D) Bob asks the questions. No new Murphy unit. Present perfect was previewed only, because Bob chose it for one question (not yet covered in Murphy).
+  - Questions used in Part A (avoid repeating exactly):
+    - U1: What are you doing right now? / What are your dogs doing at the moment? / Is it quiet in your house right now?
+    - U2: What does your studio usually work on? / Do you check your emails every day? / Do you usually finish work before six?
+    - U3: What do you usually do in the evenings, and what are you doing this evening? / What are you thinking about now, and what do you usually think about before sleep?
+    - U4: Do you prefer working in the morning or the evening? / What does your team need most right now? / Do you understand why articles are so difficult in English?
+    - U5: What did you do this morning before we started? / Did you talk to anyone interesting yesterday?
+    - U6: What were you doing at seven this morning? / What was happening in your neighbourhood when you went outside? / What were you and your neighbour talking about?
+  - Polish→English sentences used (avoid repeating):
+    - Part B (one per unit):
+      1. Teraz pada deszcz, więc zostaję w domu.
+      2. Ona nigdy nie pije kawy wieczorem.
+      3. Zwykle pracuję w biurze, ale dzisiaj pracuję z domu.
+      4. On nie rozumie tego problemu.
+      5. Nie zapłaciłem za ten bilet. (very close to "Nie zapłaciłam za bilet" from 2026-09-22; avoid repeating next time)
+      6. Kiedy wyszedłem z domu, padał deszcz.
+    - Part C (context given, tense not named):
+      1. Teraz piszę e-mail do klienta.
+      2. Codziennie sprawdzam harmonogram przed rozpoczęciem pracy.
+      3. Zwykle jem lunch w biurze, ale dzisiaj jem na mieście z klientem.
+      4. Nie rozumiem, dlaczego ten projekt trwa tak długo.
+      5. Nie zapłaciliśmy za konferencję z góry.
+      6. Kiedy wróciłem do domu, moje psy spały na kanapie.
+  - Part D (Bob's questions to Claude, all correct or self-corrected): the most common subject I talk about with people / Do you prefer chatting or coding? / Does your opponent from OpenAI steal your data...? / Do you have any estimation about your future? / Did you sleep well yesterday? / Have you watched any movie in your life? (present perfect, previewed) / Does water always boil at 100 degrees Celsius? / At what air pressure does water boil at 50 degrees Celsius?
+  - Errors (nearly all self-corrected after being flagged):
+    - Part A:
+      - "my studio usually work" → "works" (3rd person -s)
+      - "I usually I'm staying / today I bought bread" → "I stay"; "I'm shopping" (present simple vs continuous, and past instead of present continuous)
+      - "usually I'm thinking" → "I think" (needed three attempts and a simplified hint)
+      - "he's quiet in my house" → "it's quiet"
+      - "some big long project" → "a big long-term project"
+      - "there is a lot of things" → "there are"
+      - "I cleaned that bird" → "I removed the dead bird" (vocabulary)
+      - "we drink coffee" → "we drank" (present instead of past in a story)
+      - "didn't talk to anyone" / "don't check email" / "didn't have breakfast" → dropped subject "I" again
+    - Part B:
+      - "She never drink coffee at/on the evening" → "drinks ... in the evening"
+      - "working in home" → "working from home"
+      - "He don't understand" → "He doesn't understand"
+      - "I didn't pay it" → "I didn't pay for this ticket"
+    - Part C:
+      - "check schedule" → "the schedule"
+      - "I eating with client" → "I'm eating with the client"
+      - "I don't understand why this project took so long" → "takes" (present, not past)
+      - "didn't pay it for the conference" → "We didn't pay for the conference"
+      - "When I back home" → "When I came back home"; "at the couch" → "on the couch"
+    - Part D:
+      - "which the OpenAI was involved" → "which OpenAI was involved in" (no article with a company name)
+      - "do you think do you have" → double start, restarted as one clean question
+      - "is water boiled in 100 Celsius degree" → "Does water boil at 100 degrees Celsius?" (several attempts)
+      - "in what air pressure does water boils" → "At what air pressure does water boil" (preposition, then extra -s after does)
+      - "I have a problem to thinking about of questions" → "I have a problem thinking about questions"
+  - Patterns across the session:
+    - Present simple vs present continuous with "usually" / "today" was the most persistent problem.
+    - Dropped subject "I" at the start of answers (five or more times).
+    - Articles, and "in the morning / in the evening / at 100 degrees" prepositions.
+    - 3rd person -s with "studio / game / team" subjects.
+    - Strengths: do/does question formation held up well when Bob asked the questions himself ("Do you prefer...", "Does your opponent... steal..."). The only slip was "does water boils". Bob also asked for a more demanding format on his own initiative.
+  - Not flagged in session, worth a mention next time: Bob said "millennial problem"; the word he wanted was "millennium" (Millennium Prize Problem).
+  - Vocabulary encountered: anyone / anybody, remove, working from home, long-term, boiling point / air pressure (added to vocabulary.md).
+  - Callan: no book material. Stage 1, Book 1 position unchanged ("how many... are there"). This session used Callan-style Q&A only.
+  - Format Bob chose for upcoming sessions (repeat each part a few times before Unit 7): (A) Callan-style Q&A tense by tense → (B) Polish→English, plain → (C) Polish→English with context and NO tense label → (D) Bob asks Claude questions, tense named by Claude. Because Claude has no personal timeline, Part D questions work best about general facts, hypotheticals or Bob's own life, not about Claude's past.
+  - Next steps: more rounds of Units 1-6 in the format above, then Unit 7. Still pending: Murphy's Additional Exercises mixed review, Callan Book 1, the overdue baseline speaking check, and the British expressions lesson. Also: introduce embedded questions ("could you tell me whether...") when Murphy reaches them.
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 1
@@ -259,3 +328,8 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | particularly | especially; adverb before an adjective | 2026-10-15 | "nothing particularly interesting" |
 | engage with | to get involved with something seriously | 2026-10-15 | "engage more with significant things in my life" |
 | stare at | to look at something for a long time | 2026-10-15 | "My dogs were sitting and staring at me." |
+| anyone / anybody | interchangeable; "anybody" is more informal | 2026-10-16 | "I didn't talk to anybody yesterday." |
+| remove | take something away from a place | 2026-10-16 | "I removed the dead bird from my garden." |
+| working from home | not "in home" / "at home" for remote work | 2026-10-16 | "Today I'm working from home." |
+| long-term | lasting for a long period | 2026-10-16 | "My team needs a big long-term project." |
+| boiling point / air pressure | the temperature a liquid boils at; the pressure of the air | 2026-10-16 | Part D water questions |
