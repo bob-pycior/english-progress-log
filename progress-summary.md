@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-16
+Last synced: 2026-10-19
 
 ---
 
@@ -25,7 +25,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-16 — Second Units 1–6 revision (4 parts: Q&A, Polish→English plain, Polish→English with context and no tense label, Bob asks the questions).** Most persistent problem: present simple vs. present continuous with "usually"/"today". Also: dropped subject "I" (5+ times); articles; "in the morning/evening", "at 100 degrees" prepositions; 3rd person -s with "studio/game/team". **Improvement:** do/does question formation held up well when Bob asked the questions himself; the only slip was "does water boils". Present perfect was previewed once (not yet covered in Murphy). Agreed format for further rounds before Unit 7: A (Q&A) → B (Polish→English) → C (Polish→English, no tense label) → D (Bob asks questions).
 
-**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+- **2026-10-19 — Third Units 1–6 revision (5 parts: A Q&A, B Polish→English, C Polish→English with context and mixed order, D Bob asks the questions, E six sentences per unit — positive, negative, question).** Most frequent error: prepositions (in/at/on/to/for/from). Also: dropped subject "I"/"we" (~6 times), present simple vs. continuous with "usually"/"today", 3rd person -s, articles. **Strengths:** all Unit 2 sentences in Part E correct first time; Bob's own questions in Part D were nearly all correct (do/does and present perfect). Watch next: "usually + continuous" and dropped subjects. Part E note: three sentences had their English given before Bob translated them — reuse them.
+
+**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit: positive, negative, question), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -306,6 +308,66 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-19** (lesson done in claude.ai chat, synced here afterwards):
+  - Grammar: Third revision session on Murphy Units 1-6, no new unit. Five parts: (A) Callan-style Q&A, tense by tense; (B) Polish→English, one sentence per unit; (C) Polish→English with context, no tense named, mixed order (Bob asked for the order to be randomised); (D) Bob asks the questions; (E) extended set: 6 sentences per unit (positive, negative, question), 36 planned.
+  - Part A questions used (avoid repeating exactly):
+    - U1: What are you doing right now? / Are you talking to me while you're swimming? / Is the water cold?
+    - U2: Do you usually swim every day? / What time does your pool usually open? / Do you prefer swimming in the morning or the evening?
+    - U3: What do you usually do after swimming, and what are you doing today?
+    - U4: Do you need new swimming goggles? / What does a good gym need to have?
+    - U5: Did you go to the gym yesterday? / What did you eat after your last workout?
+    - U6: What were you doing at six yesterday evening? / What was happening when you arrived?
+  - Part B sentences: Właśnie teraz myję naczynia. / On rzadko pije alkohol. / Zwykle chodzę spać wcześnie, ale dzisiaj idę na imprezę. / Nie wierzę w tę historię. / Nie odebrałem twojego telefonu wczoraj. / Kiedy zadzwoniłeś, oglądałem telewizję.
+  - Part C sentences (mixed order): W zeszły weekend odwiedziliśmy moich rodziców. / Prowadzę samochód, więc nie mogę teraz pisać. / Zazwyczaj nie gotuję w weekendy. / Spałem, kiedy zadzwoniłeś. / Mój syn rozumie już trochę po angielsku. / Mój sąsiad nigdy nie sprząta swojego ogrodu. Not yet used: "Teraz robię zakupy w supermarkecie."
+  - Part D (Bob's questions to the tutor): Have you ever swum? / Did you hear about the current situation in France? / Do you have an opinion about the real purpose of violence? / Did you ever chat with other AI agents? / Aren't you curious about that kind of chat? / Do you want me to organize that kind of chat with, for example, an OpenAI model? (Bob offered to set up a chat between Claude and another AI.)
+  - Part E (6 sentences per unit planned):
+    - U1: Co oni teraz robią? / Nie pracuję teraz. / Czy ona teraz gotuje obiad? / Dzieci nie śpią teraz. / Czy wy czekacie na autobus? / On nie słucha teraz muzyki.
+    - U2: Mój brat pracuje w banku. / Nie piję kawy wieczorem. / Czy ona mówi po francusku? / Oni nie mieszkają razem. / Czy twoi rodzice często podróżują? / Mój pies nigdy nie szczeka.
+    - U3: Zwykle piję herbatę, ale teraz piję kawę. / Ona nie czyta teraz, zwykle czyta wieczorem. / Czy ty zawsze nosisz okulary, czy nosisz je tylko teraz? / Nie pracujemy dzisiaj, ale zwykle pracujemy w piątki. / On teraz pisze e-mail, chociaż zwykle dzwoni do klientów. / Czy dzieci bawią się teraz w ogrodzie, czy są w domu?
+    - U4: Rozumiem ten problem. / Nie potrzebuję twojej pomocy. / Czy ona wierzy w duchy? / Oni nie pamiętają mojego imienia. / Czy to zależy od pogody? / Nasz zespół potrzebuje więcej czasu.
+    - U5: Wczoraj obejrzałem dobry film. / Nie zadzwoniłem do niej wczoraj. / Czy oni skończyli projekt na czas? / Nie znalazłam moich kluczy wczoraj. / Czy spotkałeś kogoś ciekawego wczoraj? / Zamknęliśmy drzwi, zanim wyszliśmy.
+    - U6: Spałem, kiedy zadzwonił telefon. / Nie pracowaliśmy, kiedy zadzwoniłeś. / Co robiłeś wczoraj o ósmej wieczorem? / Podczas gdy ona gotowała, ja sprzątałem dom. / Byłem w parku, kiedy zaczęło padać.
+    - Note: the tutor accidentally gave the English for three Part E sentences before Bob translated them ("Do your parents travel often?", "Does she believe in ghosts?", "They don't remember my name"). Count those as not tested and reuse them. Part E had only 5 sentences in U6, so the set was 35, not 36; check the count next time.
+  - Errors (nearly all self-corrected after being flagged):
+    - Part A:
+      - "swimming at the pool" → "in the pool"
+      - "I take shower" → "a shower"; "going straight for a gym" → "to the gym" (needed four attempts)
+      - "Good gym need to have rack" → "A good gym needs to have a rack" (articles, 3rd person -s)
+      - "on her parents' place" → "at her parents' place"
+      - "the dinner" → "dinner"; "dinner, with which her brother made" → "which her brother made"
+    - Part B:
+      - "cleaning the dishes" → "washing the dishes"
+      - "usually I'm go to sleep early" → "usually I go" (present simple with "usually"); "going for a party" → "to a party" (needed several attempts)
+      - "didn't answer your phone" → missing subject "I"
+      - "When you call" → "called" (self-corrected)
+    - Part C:
+      - "last week" → "last weekend"
+      - "I slept when you called" → "I was sleeping when you called"
+      - "My son understand" → "understands"; "My neighbor never clean" → "cleans"
+    - Part E:
+      - U1: "Is she cooked" → "cooking"; "aren't asleep" → "aren't sleeping"; "isn't listening the music" → "to music" (and dropped subject "he")
+      - U3: "work at Fridays" → "on Fridays"; "we worked on Friday" → "we work on Fridays"; "he call to clients" → "he calls clients"; "wearing them now" → missed "only"
+      - U4: "Is this depend on weather?" → "Does this depend on the weather?" (several attempts)
+      - U5: "at the time" → "on time"
+      - U6: "was sleeping when phone rang" → "I was sleeping when the phone rang"; "wasn't working" → "We weren't working"; "What did you do yesterday at eight?" → "What were you doing..."; "I cleaned the house" → "I was cleaning the house" (simultaneous with "she was cooking"); "when it start raining" → "started"
+    - Part D:
+      - "swimmed" → "swum"
+      - "current France situation" → "the current situation in France"
+      - "other AI agent" → "other AI agents"
+  - Patterns across the session:
+    - Prepositions were the most frequent error (in / at / on / to / for / from).
+    - Dropped subject "I" or "we" at the start of answers (about six times).
+    - Present simple vs present continuous with "usually" and "today."
+    - 3rd person -s.
+    - Articles (missing a/the, or an extra "the" before non-specific nouns).
+    - Strengths: all Unit 2 sentences in Part E were correct first time. Bob's own questions in Part D were nearly all correct (do/does and present perfect), and he suggested changes to the format on his own initiative.
+  - Vocabulary encountered: swum, seldom, wash the dishes, depend on, on time, listen to (added to vocabulary.md).
+  - Callan: no book material. Stage 1, Book 1 position unchanged ("how many... are there"). This session used Callan-style Q&A only.
+  - Format agreed (repeat a few times before Unit 7): A → B → C (context, no tense named, randomised order) → D. Bob also asked for six sentences per unit with a mix of positive, negative and question forms (Part E).
+  - Next steps: more rounds of Units 1-6, then Unit 7. Still pending: Murphy's Additional Exercises mixed review, Callan Book 1, the overdue baseline speaking check, and the British expressions lesson. Keep an eye on "usually + continuous" and dropped subjects.
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 1
@@ -333,3 +395,9 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | working from home | not "in home" / "at home" for remote work | 2026-10-16 | "Today I'm working from home." |
 | long-term | lasting for a long period | 2026-10-16 | "My team needs a big long-term project." |
 | boiling point / air pressure | the temperature a liquid boils at; the pressure of the air | 2026-10-16 | Part D water questions |
+| swum | past participle of "swim" | 2026-10-19 | "Have you ever swum?" |
+| seldom | rarely; not often | 2026-10-19 | "He seldom drinks alcohol." |
+| wash the dishes | not "clean the dishes" | 2026-10-19 | "I'm washing the dishes." |
+| depend on | "depend" + "on" | 2026-10-19 | "Does this depend on the weather?" |
+| on time | punctual; not "at the time" | 2026-10-19 | "Did they finish the project on time?" |
+| listen to | "listen" + "to" | 2026-10-19 | "He isn't listening to music." |
