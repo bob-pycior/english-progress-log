@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-19
+Last synced: 2026-10-20
 
 ---
 
@@ -27,7 +27,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-19 — Third Units 1–6 revision (5 parts: A Q&A, B Polish→English, C Polish→English with context and mixed order, D Bob asks the questions, E six sentences per unit — positive, negative, question).** Most frequent error: prepositions (in/at/on/to/for/from). Also: dropped subject "I"/"we" (~6 times), present simple vs. continuous with "usually"/"today", 3rd person -s, articles. **Strengths:** all Unit 2 sentences in Part E correct first time; Bob's own questions in Part D were nearly all correct (do/does and present perfect). Watch next: "usually + continuous" and dropped subjects. Part E note: three sentences had their English given before Bob translated them — reuse them.
 
-**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit: positive, negative, question), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+- **2026-10-20 — Fourth Units 1–6 revision (voice mode): 10 Polish→English sentences per unit, 60 total, mixing positive/negative/question and singular/plural.** 60/60 eventually correct, but ~28/60 (47%) needed at least one correction. Hardest unit: U1 present continuous (6 errors, mostly articles). Strongest: U2 present simple (3 errors). Most frequent error again: articles (a/an/the), in nearly every unit; prepositions second (on/in/at, seasons: "in summer"); do/does and verb agreement with plural/collective subjects ("team", "plans", "colleagues"); new: "when" vs. "while" for simultaneous actions (U6). Bob wants progress summaries spoken in voice mode rather than written.
+
+**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit → F ten sentences per unit, mixed forms and singular/plural, U1→U6), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -365,6 +367,90 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
   - Callan: no book material. Stage 1, Book 1 position unchanged ("how many... are there"). This session used Callan-style Q&A only.
   - Format agreed (repeat a few times before Unit 7): A → B → C (context, no tense named, randomised order) → D. Bob also asked for six sentences per unit with a mix of positive, negative and question forms (Part E).
   - Next steps: more rounds of Units 1-6, then Unit 7. Still pending: Murphy's Additional Exercises mixed review, Callan Book 1, the overdue baseline speaking check, and the British expressions lesson. Keep an eye on "usually + continuous" and dropped subjects.
+
+---
+
+- **2026-10-20** (lesson done in claude.ai chat, voice mode; synced here afterwards):
+  - Grammar: Fourth revision session on Murphy Units 1-6, no new unit. New format Bob requested: 10 Polish→English sentences per unit (60 total), each set mixing positive/negative/question forms and singular/plural subjects, done unit by unit in order (U1 → U6).
+  - Unit 1 sentences used (avoid repeating):
+    1. Właśnie teraz czekam na ważny telefon. (positive, singular)
+    2. Dzieci nie oglądają teraz telewizji. (negative, plural)
+    3. Czy on pracuje teraz w ogrodzie? (question, singular)
+    4. Czy wasi sąsiedzi remontują teraz dom? (question, plural)
+    5. Nie piszę teraz żadnego e-maila. (negative, singular)
+    6. Czy twoi rodzice śpią teraz? (question, plural)
+    7. Moi koledzy nie pracują teraz nad tym projektem. (negative, plural)
+    8. Czy ona teraz prowadzi samochód? (question, singular)
+    9. Nasi klienci nie czekają teraz na odpowiedź. (negative, plural)
+    10. Czy twój brat gotuje teraz obiad? (question, singular)
+  - Unit 2 sentences used:
+    1. Mój brat pracuje w weekendy. (positive, singular)
+    2. Moi rodzice nie jedzą mięsa. (negative, plural)
+    3. Czy ona często podróżuje do innych krajów? (question, singular)
+    4. Nasi sąsiedzi nie płacą za parking. (negative, plural)
+    5. Czy twój szef czyta wszystkie raporty? (question, singular)
+    6. Te sklepy nie sprzedają alkoholu w niedziele. (negative, plural)
+    7. Mój pies nie szczeka w nocy. (negative, singular)
+    8. Czy twoi koledzy grają w piłkę nożną w weekendy? (question, plural)
+    9. Moja córka nie je śniadania. (negative, singular)
+    10. Czy wasi klienci płacą na czas? (question, plural)
+  - Unit 3 sentences used:
+    1. Zwykle pracuję w biurze, ale dzisiaj pracuję zdalnie.
+    2. Oni zwykle nie jedzą mięsa, ale dzisiaj jedzą kurczaka.
+    3. Czy ona zwykle pije kawę, czy teraz pije herbatę?
+    4. Zwykle nie pracujemy w weekendy, ale w ten weekend pracujemy.
+    5. Mój brat zwykle nie gotuje, ale dzisiaj gotuje obiad.
+    6. Czy twoi rodzice zwykle oglądają telewizję wieczorem, czy teraz czytają książkę?
+    7. Zwykle nie piję alkoholu, ale dzisiaj piję wino.
+    8. Nasi klienci zwykle nie dzwonią w piątki, ale dzisiaj dzwonią.
+    9. Czy on zwykle pracuje do późna, czy dzisiaj kończy wcześniej?
+    10. Zwykle nie podróżujemy latem, ale tego lata podróżujemy do Hiszpanii.
+  - Unit 4 sentences used:
+    1. Rozumiem teraz ten problem.
+    2. Oni nie potrzebują naszej pomocy.
+    3. Czy ona wierzy w duchy?
+    4. Nasi klienci nie pamiętają naszego numeru telefonu.
+    5. To zależy od pogody.
+    6. Czy wasze plany zależą od budżetu?
+    7. Mój zespół nie potrzebuje więcej czasu.
+    8. Te produkty zawierają dużo cukru.
+    9. Czy on preferuje herbatę od kawy?
+    10. Nasze ceny nie zależą od sezonu.
+  - Unit 5 sentences used:
+    1. Wczoraj obejrzałem ciekawy film.
+    2. Oni nie zadzwonili do nas wczoraj.
+    3. Czy ona kupiła nowy samochód?
+    4. Nasi sąsiedzi sprzedali swój dom.
+    5. Nie spałem dobrze zeszłej nocy.
+    6. Czy oni skończyli projekt na czas?
+    7. Ona napisała list do swojej siostry.
+    8. Nie znaleźliśmy naszych kluczy.
+    9. Czy spotkałeś kogoś ciekawego wczoraj?
+    10. Zamknęliśmy drzwi, zanim wyszliśmy.
+  - Unit 6 sentences used:
+    1. Spałem, kiedy zadzwonił telefon.
+    2. Oni nie pracowali, kiedy przyszedłem.
+    3. Co robiłeś wczoraj o ósmej wieczorem?
+    4. Podczas gdy oni gotowali, my sprzątaliśmy dom.
+    5. Byłem w parku, kiedy zobaczyłem mojego przyjaciela.
+    6. Nie pracowaliśmy, kiedy zadzwoniłeś.
+    7. Co ona robiła, kiedy przyszedłeś?
+    8. Kiedy wyszliśmy z domu, padał deszcz.
+    9. Nie sprzątaliśmy domu, kiedy przyjechali goście.
+    10. Czy spałeś, kiedy zaczęła się burza?
+  - Result: 60/60 sentences eventually correct, all self-corrected after being flagged. Roughly 28/60 (47%) needed at least one correction.
+  - Errors by unit:
+    - U1 (6 errors, toughest unit): missing article ("an important call"); unnecessary article ("the television" → "television"); wrong verb form ("refurbished" → "refurbishing", plus word order with "a house"); wrong preposition ("working at this project" → "on this project"); unnecessary article x2 ("the car" → "a car", "the answer" → "an answer")
+    - U2 (3 errors, strongest unit): tense slip ("worked" → "works" for a routine); plural noun with "s" error ("alcohols" → "alcohol"); do/does agreement ("does your colleagues" → "do your colleagues")
+    - U3 (4-5 errors): dropped auxiliary ("they eating" → "they are eating"); preposition errors ("on weekends" → no "the"; "in this weekend" → "this weekend"); preposition ("on the evenings" → "in the evenings"); article ("the book" → "a book"); preposition with seasons ("travel summer" → "travel in summer", "in this summer" → "this summer") — needed several attempts
+    - U4 (5 errors): word order ("understand this problem right now"); do/does + verb form agreement with plural "plans" ("does your plans depends" → "do your plans depend"); singular group agreement ("team don't" → "team doesn't", "products contains" → "products contain")
+    - U5 (4-5 errors): articles with non-specific nouns ("the interesting movie" → "an interesting movie", "a letter" not "the letter"); tense slip ("neighbors sells" → "sold"); article with specific noun ("project" → "the project")
+    - U6 (5 errors): subject-verb agreement ("they wasn't" → "weren't"); missing time phrase ("at eight" → "at eight in the evening"); "when" vs "while" confusion plus dropped object ("when they were cooking" → "while they were cooking...the house"); question word error ("was she doing" → "what was she doing"); "there was raining" → "it was raining" (also noted: "wyszliśmy z domu" = "we left the house", not "went home" — meaning slip, not corrected in session)
+  - Patterns across the session: articles (a/an/the) were the most frequent error, appearing in nearly every unit; prepositions (on/in/at) second most common; subject-verb/do-does agreement with plural or collective nouns ("team", "plans", "colleagues") recurring; one "when" vs "while" confusion (new).
+  - Callan: no book material this session (voice-mode focus was the Murphy revision format).
+  - Vocabulary encountered: remontować (renovate/refurbish) — clarified in Polish, not added as new English vocabulary.
+  - Bob's stated preference: wants progress summaries delivered spoken (voice mode) rather than as a written report.
+  - Next steps: continue Units 1-6 revision (possibly try the 10-sentences-per-unit format again, or return to A→B→C→D), then Murphy's Additional Exercises mixed review, then Unit 7. Still pending: Callan Book 1 ("how many... are there"), the overdue baseline speaking check, the British expressions/colloquialisms lesson, and embedded questions when Murphy reaches them.
 
 ---
 
