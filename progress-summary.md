@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-20
+Last synced: 2026-10-22
 
 ---
 
@@ -29,7 +29,7 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-20 — Fourth Units 1–6 revision (voice mode): 10 Polish→English sentences per unit, 60 total, mixing positive/negative/question and singular/plural.** 60/60 eventually correct, but ~28/60 (47%) needed at least one correction. Hardest unit: U1 present continuous (6 errors, mostly articles). Strongest: U2 present simple (3 errors). Most frequent error again: articles (a/an/the), in nearly every unit; prepositions second (on/in/at, seasons: "in summer"); do/does and verb agreement with plural/collective subjects ("team", "plans", "colleagues"); new: "when" vs. "while" for simultaneous actions (U6). Bob wants progress summaries spoken in voice mode rather than written.
 
-**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit → F ten sentences per unit, mixed forms and singular/plural, U1→U6), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: resume Callan Book 1 material ("how many... are there"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit → F ten sentences per unit, mixed forms and singular/plural, U1→U6), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: continue Callan Book 1 Stage 2 material (past "begin/end/last" and "cheap/expensive"), revisit "foot" vs "food" pronunciation, overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -454,16 +454,43 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-22** (Callan session, claude.ai chat, voice mode; synced here afterwards):
+  - Context: Bob felt tired and asked for a soft lesson instead of hardcore tense revision, so he suggested resuming Callan book material. No Murphy practiced.
+  - Callan: real Callan Book 1, Stage 1/2 content covered:
+    - "How many...are there" (doors, pictures, chairs, people)
+    - "All" sentences
+    - Body parts vocabulary (foot/feet, ears, nose/smell)
+    - Adjectives (definition, examples, identifying in a sentence)
+    - "Into" vs "in" (movement vs. location)
+    - "Like" meaning similar/same as
+    - Why vs. because
+    - "Too...to" structure
+    - Many vs. few
+    - Comparatives (most/fewest pages, cheap/expensive)
+    - Building/rooms
+    - Inside/outside
+    - Begin/end/last with time
+  - Errors: articles; verb agreement ("people live" vs "lives", "is/have" confusion); prepositions ("different colour than/from", "inside of"); a double "are" slip.
+  - Unresolved: Bob struggled to pronounce "foot" vs "food" correctly despite repeated attempts — flagged for next time rather than drilled further.
+  - Progress: Callan moved past the "how many... are there" set (stuck there since 2026-09-16) and well into Stage 2 book material, reaching the "begin/end/last" and "cheap/expensive" lessons. Exact page/question numbers were not recorded.
+  - Next steps: continue Callan Book 1 Stage 2 from the "begin/end/last" and "cheap/expensive" lessons (record the page/question number next time); revisit "foot" vs "food" pronunciation. Still pending: Units 1-6 revision rounds, Murphy's Additional Exercises mixed review, Unit 7, the overdue baseline speaking check, the British expressions/colloquialisms lesson, and embedded questions when Murphy reaches them.
+
+---
+
 ## Callan Method Tracker
 
-- **Current Stage:** Stage 1
+- **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
 - **Current Book:** Book 1
-- **Current Page/Question:** "How many... are there" question set (pictures on walls, pupils in classroom)
-- **Last Updated:** 2026-09-16
+- **Current Page/Question:** "begin/end/last" with time and "cheap/expensive" (comparatives) lessons — exact page/question number not recorded; note it next session
+- **Last Updated:** 2026-10-22
+- **Open pronunciation issue:** "foot" vs "food" — flagged, not yet drilled
+
+## History
 
 | Date | Stage | Book | Page/Question Reached | Notes |
 |------|-------|------|------------------------|-------|
 | 2026-09-16 | Stage 1 | Book 1 | "How many... are there" question set (pictures on walls, pupils in classroom) | First session using real Callan Book 1, Stage 1 material (~3 exchanges), layered in alongside the Murphy-based hybrid approach |
+| 2026-10-22 | Stage 1/2 | Book 1 | "begin/end/last" with time; "cheap/expensive" comparatives | Voice-mode session, soft lesson (Bob tired). Covered: how many...are there, "all" sentences, body parts (foot/feet, ears, nose/smell), adjectives, into vs in, "like" = similar/same as, why vs because, too...to, many vs few, comparatives, building/rooms, inside/outside, begin/end/last. Errors: articles, verb agreement, prepositions ("different from", "inside of"), double "are". Unresolved: "foot" vs "food" pronunciation |
 
 ---
 
