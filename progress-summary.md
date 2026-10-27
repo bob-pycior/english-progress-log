@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-22
+Last synced: 2026-10-27
 
 ---
 
@@ -29,7 +29,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-20 — Fourth Units 1–6 revision (voice mode): 10 Polish→English sentences per unit, 60 total, mixing positive/negative/question and singular/plural.** 60/60 eventually correct, but ~28/60 (47%) needed at least one correction. Hardest unit: U1 present continuous (6 errors, mostly articles). Strongest: U2 present simple (3 errors). Most frequent error again: articles (a/an/the), in nearly every unit; prepositions second (on/in/at, seasons: "in summer"); do/does and verb agreement with plural/collective subjects ("team", "plans", "colleagues"); new: "when" vs. "while" for simultaneous actions (U6). Bob wants progress summaries spoken in voice mode rather than written.
 
-**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit → F ten sentences per unit, mixed forms and singular/plural, U1→U6), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: continue Callan Book 1 Stage 2 material (past "begin/end/last" and "cheap/expensive"), revisit "foot" vs "food" pronunciation, overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+- **2026-10-27 — Callan session (no Murphy), error patterns worth tracking:** dropped subject "I" (most frequent; likely speaking pace — fixed once Bob paused before his first word); articles (second most frequent); existential/inverted word order ("on my couch can sit six people" → "six people can sit on my couch"; same pattern as "in this room are three windows") — **short targeted drill suggested**; "more bigger" → "bigger"; "one of those points are" → "is"; tell (not set/say) a joke. Strength: Bob accurately self-diagnosed his own biggest weaknesses (prepositions, singular/plural nouns) unprompted.
+
+**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit → F ten sentences per unit, mixed forms and singular/plural, U1→U6), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: continue Callan Book 1 Stage 2 material (from the tallest/biggest tree questions), short drill on existential word order ("there are" / "can sit"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -477,13 +479,47 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-27** (Callan session, claude.ai chat, voice mode; synced here afterwards):
+  - Context: Continued from the 2026-10-22 session. No Murphy practiced — full session was Callan Book 1, Stage 2 material.
+  - Callan: real Callan Book 1, Stage 2 content covered:
+    - Cheap/expensive (comparatives), continued from last session
+    - Begin/end/last, continued
+    - Inside/outside, continued (including "inside of" vs "inside")
+    - Many/few
+    - "Too...to" structure
+    - Comparatives with "much + adjective" (much bigger, much more expensive)
+    - "How many...are there" pattern, reinforced with subject-first word order drilling ("can sit" sentences)
+    - Foot/feet vs. food pronunciation check (flagged 2026-10-22) — both words came through clearly this session, issue appears resolved
+  - Errors (nearly all self-corrected after being flagged):
+    - Dropped subject "I" at the start of sentences — recurred frequently throughout the session; Bob noticed the pattern himself partway through and the tutor suggested pausing briefly before speaking, which visibly reduced the error afterwards
+    - Articles (a/an/the) — missing or wrong, the single most frequent error type (e.g. "professional bike" → "a professional bike"; "old slipper" → "old slippers"; "smash burger" → "a smash burger"; "clone tree" → "the maple tree")
+    - Word order in "can sit" sentences: "on my couch can sit six people" → "six people can sit on my couch" (same existential-inversion pattern as "in this room are three windows", corrected twice)
+    - Double comparative: "more bigger" → "bigger"
+    - Preposition errors: "bought to my garden" → "bought for my garden"; "walk by two hours" → "walk for two hours"; "inside of my house" → "inside my house"
+    - Verb agreement: "a person have" → "has"; "they works" → "work"
+    - Vocabulary/false friend: "clone tree" (Polish "klon") → "maple tree"
+    - Tense errors: "I try to tell a joke" → "I tried to tell a joke"; "I want to split" (describing a past purchase) → "I wanted to split"; "I try to answer" (about to happen) → "I will try to answer"
+    - Verb choice: "set a joke" → "tell a joke"; "say a joke" → "tell a joke"
+    - Agreement with "one of + plural": "one of those points are" → "one of those points is"
+    - Plural/singular noun slip: "prepositions and singular and plural thing" → correctly reached "prepositions and ... singular and plural nouns" after two attempts (notable because Bob self-diagnosed this exact error pattern as his biggest weakness, unprompted)
+  - Patterns across the session:
+    - Dropped subject "I" was the most frequent issue, more so than in recent Murphy revision sessions — likely a speaking-pace issue rather than a grammar gap, since Bob fixed it immediately once he started pausing before his first word
+    - Articles remained the next most frequent error, consistent with the pattern seen across the September–October Murphy revision sessions
+    - Existential/inverted word order ("can sit", "are there") is a recurring structural issue worth targeted drilling
+    - Strength: Bob self-identified his own error patterns accurately and unprompted ("prepositions and singular/plural nouns"), and handled several long, complex sentences correctly on the first or second attempt (e.g. "The difference between a couch and a chair is that a couch is much bigger and much more comfortable than a regular chair")
+  - Unresolved from 2026-10-22, now resolved: "foot" vs "food" pronunciation — both words were clear and correctly transcribed multiple times this session; no further drilling needed unless it resurfaces
+  - Vocabulary encountered: graphite, ink, maple (tree), within, splitting axe (added to vocabulary.md)
+  - Next steps: continue Callan Book 1 Stage 2 from where this session ended (last topic: tallest/biggest tree questions, following on from cheap/expensive, begin/end/last, inside/outside, many/few, too...to). Still pending: Units 1-6 Murphy revision rounds, Murphy's Additional Exercises mixed review, Unit 7, the overdue baseline speaking check, the British expressions/colloquialisms lesson, and embedded questions when Murphy reaches them. Consider targeted drilling on existential word order ("there are" / "can sit" constructions) as a short focused exercise next time.
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
 - **Current Book:** Book 1
-- **Current Page/Question:** "begin/end/last" with time and "cheap/expensive" (comparatives) lessons — exact page/question number not recorded; note it next session
-- **Last Updated:** 2026-10-22
-- **Open pronunciation issue:** "foot" vs "food" — flagged, not yet drilled
+- **Current Page/Question:** tallest/biggest tree questions (following cheap/expensive, begin/end/last, inside/outside, many/few, too...to) — exact page/question number not recorded; note it next session
+- **Last Updated:** 2026-10-27
+- **Pronunciation:** "foot" vs "food" resolved 2026-10-27 (was flagged 2026-10-22); drill again only if it resurfaces
 
 ## History
 
@@ -491,6 +527,7 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 |------|-------|------|------------------------|-------|
 | 2026-09-16 | Stage 1 | Book 1 | "How many... are there" question set (pictures on walls, pupils in classroom) | First session using real Callan Book 1, Stage 1 material (~3 exchanges), layered in alongside the Murphy-based hybrid approach |
 | 2026-10-22 | Stage 1/2 | Book 1 | "begin/end/last" with time; "cheap/expensive" comparatives | Voice-mode session, soft lesson (Bob tired). Covered: how many...are there, "all" sentences, body parts (foot/feet, ears, nose/smell), adjectives, into vs in, "like" = similar/same as, why vs because, too...to, many vs few, comparatives, building/rooms, inside/outside, begin/end/last. Errors: articles, verb agreement, prepositions ("different from", "inside of"), double "are". Unresolved: "foot" vs "food" pronunciation |
+| 2026-10-27 | Stage 2 | Book 1 | tallest/biggest tree questions | Voice mode, full session of Callan material, no Murphy. Continued cheap/expensive, begin/end/last, inside/outside (incl. "inside of" vs "inside"); also many/few, too...to, "much + adjective" comparatives, "how many...are there" with "can sit" word-order drilling. "foot"/"food" now clear. Errors: dropped subject "I" (reduced after pausing before speaking), articles, existential word order ("six people can sit on my couch"), "more bigger", prepositions, verb agreement, tense slips, "tell a joke" |
 
 ---
 
@@ -514,3 +551,8 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | depend on | "depend" + "on" | 2026-10-19 | "Does this depend on the weather?" |
 | on time | punctual; not "at the time" | 2026-10-19 | "Did they finish the project on time?" |
 | listen to | "listen" + "to" | 2026-10-19 | "He isn't listening to music." |
+| graphite | a soft grey-black form of carbon, used in pencils | 2026-10-27 | Callan session (exact sentence not recorded) |
+| ink | coloured liquid used for writing or printing | 2026-10-27 | Callan session (exact sentence not recorded) |
+| maple (tree) | a tree with lobed leaves; "klon" in Polish — not "clone tree" | 2026-10-27 | "clone tree" → "the maple tree" |
+| within | inside the limits of something (place, time or amount) | 2026-10-27 | Callan session (exact sentence not recorded) |
+| splitting axe | a heavy axe used for splitting firewood | 2026-10-27 | Callan session (exact sentence not recorded) |
