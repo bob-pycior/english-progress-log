@@ -517,9 +517,9 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 - **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
 - **Current Book:** Book 1
-- **Current Page/Question:** tallest/biggest tree questions (following cheap/expensive, begin/end/last, inside/outside, many/few, too...to) — exact page/question number not recorded; note it next session
+- **Current Page/Question:** continuing past cheap/expensive, begin/end/last, inside/outside, many/few, too...to — exact page/question number still not recorded, worth noting next session
 - **Last Updated:** 2026-10-27
-- **Pronunciation:** "foot" vs "food" resolved 2026-10-27 (was flagged 2026-10-22); drill again only if it resurfaces
+- **Open pronunciation issue:** "foot" vs "food" — resolved this session, no longer flagged
 
 ## History
 
