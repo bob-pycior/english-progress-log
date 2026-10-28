@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-27
+Last synced: 2026-10-28
 
 ---
 
@@ -31,7 +31,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-27 — Callan session (no Murphy), error patterns worth tracking:** dropped subject "I" (most frequent; likely speaking pace — fixed once Bob paused before his first word); articles (second most frequent); existential/inverted word order ("on my couch can sit six people" → "six people can sit on my couch"; same pattern as "in this room are three windows") — **short targeted drill suggested**; "more bigger" → "bigger"; "one of those points are" → "is"; tell (not set/say) a joke. Strength: Bob accurately self-diagnosed his own biggest weaknesses (prepositions, singular/plural nouns) unprompted.
 
-**Next up:** more rounds of Units 1–6 in the agreed format (A Q&A → B Polish→English → C Polish→English, no tense label → D Bob asks the questions → E six sentences per unit → F ten sentences per unit, mixed forms and singular/plural, U1→U6), then Murphy's "Additional Exercises" mixed review (~p.300s) and Unit 7. Also pending: continue Callan Book 1 Stage 2 material (from the tallest/biggest tree questions), short drill on existential word order ("there are" / "can sit"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+- **2026-10-28 — Murphy Additional Exercises mixed review (Units 1–6), informal version.** Bob's book pages weren't available, so the review was improvised: 7 mixed-tense Polish→English sentences (7/7 eventually correct, most needed one correction round), a short Q&A, then Bob asking the questions (topic: Dune). Main issues: tense choice in the second half of two-clause sentences ("they still chat" → "were still chatting"); word order with "still" ("is she still working"); past simple question formation ("did she finish", not "is she finished"); 3rd person -s ("she don't"); articles, even in Bob's own spontaneous questions; superlative word order ("most noticeable") — a new pattern to watch alongside "more bigger". **Units 1–6 mixed review is now effectively done — next: Unit 7.** (Optionally do the book's own Additional Exercises later.)
+
+**Next up:** Unit 7 (the informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises, ~p.300s, can be done later). Also pending: continue Callan Book 1 Stage 2 material (from the tallest/biggest tree questions), short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -513,6 +515,42 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-28** (claude.ai chat, voice mode; synced here afterwards):
+  - Grammar: Murphy's Additional Exercises mixed review for Units 1–6 (Bob's own book pages not available in this session, so a mixed-tense review was improvised in the same spirit: translation sentences shuffling all six tenses together), followed by a short Callan-style Q&A round, then a round of Bob asking the questions.
+  - Part 1 — Mixed-tense translation review (7 sentences, all tenses shuffled):
+    1. Teraz robię kawę, bo zwykle piję ją rano. (U1/U3 contrast)
+    2. Wczoraj nie spałem dobrze, bo hałas mnie obudził o drugiej w nocy. (U5)
+    3. Kiedy dzwonił telefon, oni jeszcze rozmawiali o projekcie. (U6)
+    4. Czy ona skończyła ten raport wczoraj, czy jeszcze nad nim pracuje? (U5/U3 contrast) — note: original planned sentence used "already", which needs present perfect (not yet covered); swapped to a past-simple/present-simple version instead
+    5. Moi rodzice mieszkali w Krakowie, kiedy byłem dzieckiem. (U5)
+    6. Ten telefon należy do mojej siostry, ale ona go teraz nie potrzebuje. (U4)
+    7. Zwykle jeździmy do pracy autobusem, ale dzisiaj idziemy pieszo, bo jest ładna pogoda. (U2/U3 contrast)
+  - Result: 7/7 eventually correct, most needed one correction round.
+  - Errors (all self-corrected after being flagged):
+    - "they still chat" → "they were still chatting" (past continuous for the longer interrupted action, Unit 6)
+    - "is she finished that report yesterday" → "did she finish that report yesterday" (past simple question formation, Unit 5)
+    - "is she working still on it" → "is she still working on it" (word order of "still" with "is")
+    - "she don't need it" → "she doesn't need it" (3rd person agreement, recurring pattern)
+    - "going by walk" → "going for a walk" (wrong meaning) → "we are walking" (to work) — needed two attempts to land on the right phrasing
+  - Patterns in Part 1: tense choice in the second half of two-clause sentences (continuous vs. simple) and word order with "still" were the main issues; third person -s agreement recurred once again.
+  - Part 2 — Callan-style Q&A (tutor asking):
+    - What are you doing right now, besides talking to me?
+    - What do you usually do on weekday evenings?
+    - What did you do before you started this lesson today?
+  - Errors: "on the weekday evenings" → "on a weekday evening" (article/specificity); "I'm usually learn English" → "I learn English" (mixed continuous/simple, fixed on second attempt); "I was in a basement" → "I was in the basement" (article, specific place)
+  - Part 3 — Bob asks the questions (topic: Dune, chosen by Bob):
+    - "Did you spoke with someone else before you start lesson with me?" → corrected to "Did you speak with someone else before you started the lesson with me?" (verb form after "did"; past tense of "start"; missing article before "lesson")
+    - "Do you think that new Dune movie will be as good as previous one?" → corrected to include articles: "the new Dune movie... the previous one." Bob correctly identified "will" as future simple on his own.
+    - "Did you read the Dune books?" — correct first time.
+    - "Which part of Duna did you enjoy the most?" → corrected "Duna" (Polish) to "Dune" (English title, pronounced like "sand dune")
+    - Follow-up exchange: "I read it a few years ago and I still remember the atmosphere of [the] desert, which was [noticeable most → most noticeable] in the first part." — article before "desert" and superlative word order ("most noticeable", not "noticeable most") both corrected after a couple of attempts.
+  - Patterns in Part 3: articles continue to be the most frequent slip even in spontaneous question-asking; superlative/comparative word order ("most noticeable") is a new-ish pattern worth watching alongside the earlier "more bigger" double-comparative error from 2026-10-27.
+  - Mid-session review (requested by Bob): tutor summarized recurring error categories aloud — (1) tense choice in the second half of two-clause sentences, (2) word order (e.g. "still working", "inside my house", "can sit" inversions), (3) small word/preposition choices (e.g. "by walk", "for a walk"). Confirmed overall recurring themes across all sessions remain: articles, prepositions, dropped subject "I", 3rd person -s, and present simple vs. continuous with "usually"/"today".
+  - Vocabulary encountered: Dune (English title, corrected from Polish "Duna"/"Diuna"), spice, Arrakis (mentioned by tutor, not drilled). Only "Dune" added to vocabulary.md.
+  - Next steps: Murphy's Additional Exercises mixed review is now effectively done (informal version, since the physical book exercises weren't available) — Bob and tutor can move to **Unit 7** next session. Still pending: the overdue baseline speaking check, the British expressions/colloquialisms lesson, embedded questions (once Murphy reaches them), and continued Callan Book 1 Stage 2 (last reached: tallest/biggest tree questions, following cheap/expensive, begin/end/last, inside/outside, many/few, too...to — exact page/question number still not recorded). Possible focused drill suggested: superlative and comparative word order ("most noticeable", avoiding "more bigger").
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
@@ -556,3 +594,4 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | maple (tree) | a tree with lobed leaves; "klon" in Polish — not "clone tree" | 2026-10-27 | "clone tree" → "the maple tree" |
 | within | inside the limits of something (place, time or amount) | 2026-10-27 | Callan session (exact sentence not recorded) |
 | splitting axe | a heavy axe used for splitting firewood | 2026-10-27 | Callan session (exact sentence not recorded) |
+| Dune | English title of the novel/film; pronounced like "sand dune" — not Polish "Duna"/"Diuna" | 2026-10-28 | "Which part of Dune did you enjoy the most?" |
