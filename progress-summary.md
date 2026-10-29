@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-28
+Last synced: 2026-10-29
 
 ---
 
@@ -18,6 +18,7 @@ Tracks units completed, when, and recurring errors seen in each unit.
 | 4 | Verbs not normally used in the continuous form (know, want, need, believe, understand, remember, belong, contain, consist, depend, seem, prefer) | 2026-09-21 | **Two main recurring patterns to target next — came up repeatedly across all rounds:** (1) 3rd person singular agreement, missing -s (e.g. "understand" instead of "understands"); (2) do/does question formation (do with singular subjects, does with plural; extra -s after does, e.g. "does he needs" instead of "does he need"). Also: missing possessive apostrophe-s ("people problems" instead of "people's problems", "team budget" instead of "team's budget"); missing/wrong articles ("new employee" instead of "a new employee"); occasional vocabulary mix-ups (advertise vs. advertisement, consist of vs. contains from). A focused do-vs-does oral drill (2 rounds, no translation) was already conducted this session — Bob reported not yet fully comfortable with it, so **flag do/does question formation for continued practice in upcoming sessions.** |
 | 5 | Past simple (regular/irregular verbs; positive/negative/question forms; didn't + base form) | 2026-09-22 | Strong session — 15/15 translation sentences, mostly correct first try. Recurring: article errors with non-specific/uncountable nouns (e.g. "the interesting movie" instead of "an interesting movie", "the coffee and tea" instead of "coffee and tea"); irregular past tense mix-ups under pressure ("both" for "bought", "bring" not converted to "brought") — both self-corrected after a hint; tense mismatch in subordinate clauses (e.g. "before we leave" instead of "before we left"). do/does question formation (flagged in Unit 4) was not specifically retested this session. |
 | 6 | Past continuous (was/were + -ing; interrupted actions with past simple) | 2026-09-24 | Strong session — 5/5 translation sentences correct, all oral drills eventually correct, good self-correction throughout. Recurring: article errors with meals ("a dinner" instead of "dinner", occurred twice); subject-verb agreement ("they was working" instead of "they were working"); vague time expressions ("at night" instead of a specific hour, needed prompting); early construction slips mixing up which clause takes past continuous vs. past simple in interrupted-action sentences, resolved with guided correction. **Units 1–6 (present/past tense group) now COMPLETE** — next: Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s) before starting Unit 7. |
+| 7 | Present perfect (have/has + past participle) — **IN PROGRESS** | Started 2026-10-29 (not yet completed) | Theory covered: present perfect for unspecified time / past-relevant-to-now results vs. past simple for finished/specified time. Errors so far: articles (still the most frequent slip, even inside new structures: "such a big tree", "a new level"); has/have agreement with plural subjects ("have your parents"); dropped subject "I" (fixed after pausing); "yet" vs. "just" and placement of "just"; "enter" takes no preposition ("enter my home"); "respond to", not "respond on"; "made" (not "done") for game levels; existential word order ("There are eight trees in my garden", not "In my garden are eight trees" — recurring). **First embedded question** ("Have you ever wondered how it feels...") — initial word-order error, then corrected. Next: "yet", "already", "just" in more depth; keep do/does warm-up. |
 
 ## Revision log
 
@@ -33,7 +34,7 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-28 — Murphy Additional Exercises mixed review (Units 1–6), informal version.** Bob's book pages weren't available, so the review was improvised: 7 mixed-tense Polish→English sentences (7/7 eventually correct, most needed one correction round), a short Q&A, then Bob asking the questions (topic: Dune). Main issues: tense choice in the second half of two-clause sentences ("they still chat" → "were still chatting"); word order with "still" ("is she still working"); past simple question formation ("did she finish", not "is she finished"); 3rd person -s ("she don't"); articles, even in Bob's own spontaneous questions; superlative word order ("most noticeable") — a new pattern to watch alongside "more bigger". **Units 1–6 mixed review is now effectively done — next: Unit 7.** (Optionally do the book's own Additional Exercises later.)
 
-**Next up:** Unit 7 (the informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises, ~p.300s, can be done later). Also pending: continue Callan Book 1 Stage 2 material (from the tallest/biggest tree questions), short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+**Next up:** finish Unit 7 (present perfect, in progress since 2026-10-29): "yet", "already", "just" in more depth, with the do/does warm-up. The informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises (~p.300s) can be done later. Also pending: continue Callan Book 1 Stage 2 material (from the tallest/biggest tree questions), short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
 
 ---
 
@@ -551,12 +552,36 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-10-29 (session 2)** (Murphy Unit 7 started + short Callan round; claude.ai chat, voice mode; synced here afterwards):
+  - Grammar: Murphy Unit 7 (present perfect: have/has + past participle) — STARTED, not yet completed. Opened with a do/does warm-up (3 prompts: "does your brother play football?", "do our clients pay on time?", "does she need a new phone?" — all eventually correct, one first-try miss on "plays").
+  - Theory covered: present perfect for unspecified time / past-relevant-to-now results, contrasted with past simple for finished/specified time. Noted Bob had already produced a correct present-perfect question on 2026-10-19 ("Have you ever swum?").
+  - Sentences practiced (positive, negative, question, with "just"/"yet"/"never", plus one embedded question):
+    1. "Zgubiłem klucze i teraz nie mogę wejść do domu." → "I have lost my keys, and now I can't enter my home." (needed correction: "enter" takes no preposition, and needs a place after it — "enter my home", not "enter home")
+    2. Free sentence about today → "I have made many levels in my game." (corrected "done" → "made", vocabulary precision for game design)
+    3. Free question → "Have you ever wondered how it feels to have a body?" (corrected: embedded-question word order after "wondered" — first attempt had direct-question word order; also "get" → "have" for a body one already lives in). First practice of embedded questions, flagged as pending since 2026-10-15.
+    4. "Nie skończyłem jeszcze tego poziomu." → "I haven't finished that level yet." (needed a pause to restore the dropped subject "I")
+    5. Mixed set:
+       - "Czy kiedykolwiek grałeś w tę grę?" → "Have you ever played this game?" — correct first try
+       - "Ona jeszcze nie odpowiedziała na mój e-mail." → "She hasn't responded to my email yet." (preposition fix: "respond to", not "respond on")
+       - "Mój zespół właśnie skończył nowy poziom." → "My team has just finished a new level." (fixed missing article, confusion between "yet"/"just", and placement of "just")
+       - "Czy twoi rodzice już wrócili z wakacji?" → "Have your parents returned from holiday?" (fixed has/have agreement with plural "parents")
+       - "Nigdy nie widziałem tak dużego drzewa." → "I've never seen such a big tree before." (fixed article placement with "such a")
+  - Patterns: articles remained the most frequent slip even inside new present-perfect structures; one has/have plural-agreement slip; one dropped-subject "I" (fixed after pausing); one vocabulary precision issue (done vs. made/designed/built for game levels); successful first attempt at embedded-question word order.
+  - Callan: short relaxed round (Bob was tired), continuing from "tallest/biggest tree" questions:
+    - "Which is taller, a house or a tree?" → correct first try
+    - "What is the tallest tree you have ever seen?" → built up over 3 attempts to "The tallest tree that I have ever seen is the Douglas fir." (fixed relative clause "that", added present perfect "have... seen", added article "the", and corrected vocabulary "Douglasia" → "Douglas fir")
+    - "How many trees are there in your garden?" → corrected existential word order ("In my garden are eight trees" → "There are eight trees in my garden") — same recurring pattern flagged 2026-10-27
+  - Callan position unchanged from 2026-10-27 (tallest/biggest tree questions), reinforced rather than advanced today.
+  - Next steps: continue Unit 7 with "yet", "already", "just" in more depth; keep do/does warm-up; watch articles, has/have agreement, and existential word order (recurring, unresolved); continue Callan from tallest/biggest tree questions. Still pending: baseline speaking check, British expressions lesson.
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
 - **Current Book:** Book 1
 - **Current Page/Question:** continuing past cheap/expensive, begin/end/last, inside/outside, many/few, too...to — exact page/question number still not recorded, worth noting next session
-- **Last Updated:** 2026-10-27
+- **Last Updated:** 2026-10-29
 - **Open pronunciation issue:** "foot" vs "food" — resolved this session, no longer flagged
 
 ## History
@@ -566,6 +591,7 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | 2026-09-16 | Stage 1 | Book 1 | "How many... are there" question set (pictures on walls, pupils in classroom) | First session using real Callan Book 1, Stage 1 material (~3 exchanges), layered in alongside the Murphy-based hybrid approach |
 | 2026-10-22 | Stage 1/2 | Book 1 | "begin/end/last" with time; "cheap/expensive" comparatives | Voice-mode session, soft lesson (Bob tired). Covered: how many...are there, "all" sentences, body parts (foot/feet, ears, nose/smell), adjectives, into vs in, "like" = similar/same as, why vs because, too...to, many vs few, comparatives, building/rooms, inside/outside, begin/end/last. Errors: articles, verb agreement, prepositions ("different from", "inside of"), double "are". Unresolved: "foot" vs "food" pronunciation |
 | 2026-10-27 | Stage 2 | Book 1 | tallest/biggest tree questions | Voice mode, full session of Callan material, no Murphy. Continued cheap/expensive, begin/end/last, inside/outside (incl. "inside of" vs "inside"); also many/few, too...to, "much + adjective" comparatives, "how many...are there" with "can sit" word-order drilling. "foot"/"food" now clear. Errors: dropped subject "I" (reduced after pausing before speaking), articles, existential word order ("six people can sit on my couch"), "more bigger", prepositions, verb agreement, tense slips, "tell a joke" |
+| 2026-10-29 | Stage 2 | Book 1 | tallest/biggest tree questions (position unchanged, reinforced) | Short relaxed round (Bob tired), after Murphy Unit 7. "Which is taller, a house or a tree?" correct first try; "The tallest tree that I have ever seen is the Douglas fir" (3 attempts: relative "that", present perfect, article, "Douglasia" → "Douglas fir"); "How many trees are there in your garden?" — existential word order corrected again ("There are eight trees in my garden") |
 
 ---
 
