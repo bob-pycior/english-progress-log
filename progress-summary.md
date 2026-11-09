@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-10-29
+Last synced: 2026-11-09
 
 ---
 
@@ -18,7 +18,7 @@ Tracks units completed, when, and recurring errors seen in each unit.
 | 4 | Verbs not normally used in the continuous form (know, want, need, believe, understand, remember, belong, contain, consist, depend, seem, prefer) | 2026-09-21 | **Two main recurring patterns to target next — came up repeatedly across all rounds:** (1) 3rd person singular agreement, missing -s (e.g. "understand" instead of "understands"); (2) do/does question formation (do with singular subjects, does with plural; extra -s after does, e.g. "does he needs" instead of "does he need"). Also: missing possessive apostrophe-s ("people problems" instead of "people's problems", "team budget" instead of "team's budget"); missing/wrong articles ("new employee" instead of "a new employee"); occasional vocabulary mix-ups (advertise vs. advertisement, consist of vs. contains from). A focused do-vs-does oral drill (2 rounds, no translation) was already conducted this session — Bob reported not yet fully comfortable with it, so **flag do/does question formation for continued practice in upcoming sessions.** |
 | 5 | Past simple (regular/irregular verbs; positive/negative/question forms; didn't + base form) | 2026-09-22 | Strong session — 15/15 translation sentences, mostly correct first try. Recurring: article errors with non-specific/uncountable nouns (e.g. "the interesting movie" instead of "an interesting movie", "the coffee and tea" instead of "coffee and tea"); irregular past tense mix-ups under pressure ("both" for "bought", "bring" not converted to "brought") — both self-corrected after a hint; tense mismatch in subordinate clauses (e.g. "before we leave" instead of "before we left"). do/does question formation (flagged in Unit 4) was not specifically retested this session. |
 | 6 | Past continuous (was/were + -ing; interrupted actions with past simple) | 2026-09-24 | Strong session — 5/5 translation sentences correct, all oral drills eventually correct, good self-correction throughout. Recurring: article errors with meals ("a dinner" instead of "dinner", occurred twice); subject-verb agreement ("they was working" instead of "they were working"); vague time expressions ("at night" instead of a specific hour, needed prompting); early construction slips mixing up which clause takes past continuous vs. past simple in interrupted-action sentences, resolved with guided correction. **Units 1–6 (present/past tense group) now COMPLETE** — next: Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s) before starting Unit 7. |
-| 7 | Present perfect (have/has + past participle) — **IN PROGRESS** | Started 2026-10-29 (not yet completed) | Theory covered: present perfect for unspecified time / past-relevant-to-now results vs. past simple for finished/specified time. Errors so far: articles (still the most frequent slip, even inside new structures: "such a big tree", "a new level"); has/have agreement with plural subjects ("have your parents"); dropped subject "I" (fixed after pausing); "yet" vs. "just" and placement of "just"; "enter" takes no preposition ("enter my home"); "respond to", not "respond on"; "made" (not "done") for game levels; existential word order ("There are eight trees in my garden", not "In my garden are eight trees" — recurring). **First embedded question** ("Have you ever wondered how it feels...") — initial word-order error, then corrected. Next: "yet", "already", "just" in more depth; keep do/does warm-up. |
+| 7 | Present perfect (have/has + past participle) — **IN PROGRESS** | Started 2026-10-29 (not yet completed) | Theory covered: present perfect for unspecified time / past-relevant-to-now results vs. past simple for finished/specified time. Errors so far: articles (still the most frequent slip, even inside new structures: "such a big tree", "a new level"); has/have agreement with plural subjects ("have your parents"); dropped subject "I" (fixed after pausing); "yet" vs. "just" and placement of "just"; "enter" takes no preposition ("enter my home"); "respond to", not "respond on"; "made" (not "done") for game levels; existential word order ("There are eight trees in my garden", not "In my garden are eight trees" — recurring). **First embedded question** ("Have you ever wondered how it feels...") — initial word-order error, then corrected. Next: "yet", "already", "just" in more depth; keep do/does warm-up. **2026-11-09 (first lesson after a one-week break):** do/does warm-up needed several attempts after the break (do→does, "a mobile games"); 10-sentence present perfect set with "yet", "already", "just", "never", "been to" — most needed one correction, several correct first try. New patterns: **"been to" (not "been in/at")**, has/have agreement with singular subjects (twice), placement of "never", tense of the second clause ("I have lost my phone and I can't find it"). Free conversation corrections: "did some cleaning" (not "made"), "I decided that I would take a break" (backshift), "he doesn't write code", "a question" (not "a questions"). Pronunciation: "bought" repeatedly said as "both/boat/board" — new, unresolved, see Callan tracker. Embedded questions: first used successfully 2026-10-29, so progressing rather than pending. |
 
 ## Revision log
 
@@ -34,7 +34,7 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-28 — Murphy Additional Exercises mixed review (Units 1–6), informal version.** Bob's book pages weren't available, so the review was improvised: 7 mixed-tense Polish→English sentences (7/7 eventually correct, most needed one correction round), a short Q&A, then Bob asking the questions (topic: Dune). Main issues: tense choice in the second half of two-clause sentences ("they still chat" → "were still chatting"); word order with "still" ("is she still working"); past simple question formation ("did she finish", not "is she finished"); 3rd person -s ("she don't"); articles, even in Bob's own spontaneous questions; superlative word order ("most noticeable") — a new pattern to watch alongside "more bigger". **Units 1–6 mixed review is now effectively done — next: Unit 7.** (Optionally do the book's own Additional Exercises later.)
 
-**Next up:** finish Unit 7 (present perfect, in progress since 2026-10-29): "yet", "already", "just" in more depth, with the do/does warm-up. The informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises (~p.300s) can be done later. Also pending: continue Callan Book 1 Stage 2 material (from the tallest/biggest tree questions), short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"), overdue baseline speaking check, British expressions/colloquialisms lesson, embedded questions when Murphy reaches them.
+**Next up:** finish Unit 7 (present perfect, in progress since 2026-10-29): the "been to" pattern, has/have agreement, "yet"/"already"/"just". Also pending: short "bought" pronunciation drill; Bob to send a screenshot of the game's skill-choice screen (for a text-mode session); continue Callan Book 1 Stage 2 from the tallest/biggest tree questions; short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"); overdue baseline speaking check; British expressions/colloquialisms lesson; embedded questions (progressing, first used 2026-10-29). The informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises (~p.300s) can be done later.
 
 ---
 
@@ -576,12 +576,45 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-11-09** (claude.ai chat, voice mode; first lesson after a one-week break):
+  - Context: Bob returned after a one-week break (his own choice, for rest). Opening exchange about being "back" produced several small corrections: "made a break" → "took a break"; "I'm after a break" → "I'm back after a break"; "one week of break" → "a week's break" (needed several attempts — article + possessive 's both dropped at different points, resolved after multiple tries).
+  - Grammar: do/does warm-up, then continued Murphy Unit 7 (present perfect) with focus on "yet", "already", "just", "never", and "been to".
+    - Warm-up (3 prompts): "Does my studio make mobile games?" (took several attempts post-break: subject-verb agreement do→does, plus "a mobile games"→"mobile games"); "Do our clients pay on time?" (correct first try); "Does she need a new phone?" (correct first try, with article).
+    - Vocabulary clarified: "remind" vs. "remember" (Bob asked for the distinction, then used "remind" correctly in a live question: "Could you remind me what is in Unit 7?").
+  - Sentence set (10 sentences; most needed 1 correction, a few correct first try):
+    1. "Czy już skończyłeś ten poziom?" → "Have you finished this level already?" (built up in stages: missing object, then missing "already")
+    2. "Nie byłem jeszcze w Londynie." → "I haven't been to London yet." (preposition: "been in" → "been to", a new recurring pattern to watch)
+    3. "Mój brat właśnie kupił nowy samochód." → "My brother has just bought a new car." (has/have agreement; "bought" mispronounced as "both"/"boat"/"board" repeatedly — pronunciation drilled but not fully resolved, flagged below)
+    4. "Czy kiedykolwiek byłeś w Polsce?" → "Have you ever been to Poland?" — correct first try (reused "been to" immediately)
+    5. "Nie widziałem jeszcze tego filmu." → "I haven't seen this movie yet." — correct first try
+    6. "Czy właśnie wróciłeś z pracy?" → "Have you just returned from work?" — correct first try
+    7. "Ona nigdy nie była w Hiszpanii." → "She has never been to Spain." (word order: "never" placement; preposition self-corrected this time)
+    8. "Moi koledzy jeszcze nie skończyli projektu." → "My colleagues haven't finished the project yet." — correct, said in two parts
+    9. "Czy twój szef już podjął decyzję?" → "Has your boss decided yet?" (has/have agreement)
+    10. "Zgubiłem telefon i nie mogę go znaleźć." → "I have lost my phone and I can't find it." (tense in second clause: "couldn't" → "can't", to match present relevance)
+  - Patterns: has/have agreement with singular subjects recurred twice; "been to" (vs. "been in/at") is a new preposition pattern worth tracking, alongside the established list; "bought" pronunciation is a genuinely new, unresolved issue (vowel coached toward "short"/"caught" rhyme, improved but not reliable — worth a short targeted pronunciation drill next time, separate from grammar).
+  - Grammar wrapped up at Bob's request ("not a big fan of grammar today") after 10 sentences; moved to free conversation, lighter correction only on notable errors:
+    - "made some cleaning" → "did some cleaning"
+    - "shamey" → "embarrassed"
+    - "I decided that I will take a break" → "I decided that I would take a break" (backshift in reported thought)
+    - "he don't write code" → "he doesn't write code"
+    - "an experienced team" (article before vowel sound)
+    - "I have a questions" → "I have a question"
+    - "back with a finished mockup" → "come back with a finished mockup"
+  - Conversation topics: his week off (Borderlands: The Pre-Sequel, a mobile game called Dicer, reading Harry Potter book 3 in English for practice, cleaning the basement); his new in-house project — a 6×6 Blockudoku-style puzzle game with RPG mechanics (hidden skill icons on grid cells, triggered by clearing lines/squares, turn-based combat, roguelike skill-pick-one screen after each wave, some skills that upgrade specific Tetris pieces); team is actually 2 people (not 3 as previously recorded) using Claude Code for programming and ChatGPT for graphics; prototype has animated character/enemies, working grid and input system, 6–7 skills implemented; deadline: publisher demo next Friday, priority is skill balance over combat polish, plan to playtest in-house (a Claude-Code-built simulation bot to test balance at scale was suggested — new idea, not yet actioned).
+  - Vocabulary encountered: remind (vs. remember), in-house (confirmed correct usage), turn-based (added to vocabulary.md).
+  - Callan: no book material this session. Position unchanged (tallest/biggest tree questions).
+  - Next steps: continue Unit 7 nuances ("been to" pattern, has/have agreement); short pronunciation drill on "bought" when convenient; Bob to send a screenshot of the game's skill-choice screen next time he's ready (wants layout/readability feedback — note for a text-mode session, since images aren't visible in voice mode); still pending: baseline speaking check, British expressions lesson, embedded questions (first successfully used on 2026-10-29 — "have you ever wondered how it feels to..." — so progressing rather than pending).
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
 - **Current Book:** Book 1
 - **Current Page/Question:** continuing past cheap/expensive, begin/end/last, inside/outside, many/few, too...to — exact page/question number still not recorded, worth noting next session
-- **Last Updated:** 2026-10-29
+- **Last Updated:** 2026-11-09
+- **Open pronunciation issue (new 2026-11-09):** "bought" — said as "both/boat/board"; coached toward the "short/caught" vowel, improved but not reliable; short targeted drill next time
 - **Open pronunciation issue:** "foot" vs "food" — resolved this session, no longer flagged
 
 ## History
@@ -621,3 +654,6 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | within | inside the limits of something (place, time or amount) | 2026-10-27 | Callan session (exact sentence not recorded) |
 | splitting axe | a heavy axe used for splitting firewood | 2026-10-27 | Callan session (exact sentence not recorded) |
 | Dune | English title of the novel/film; pronounced like "sand dune" — not Polish "Duna"/"Diuna" | 2026-10-28 | "Which part of Dune did you enjoy the most?" |
+| remind (vs. remember) | "remind" = make someone remember something; "remember" = keep or bring something in your own mind | 2026-11-09 | "Could you remind me what is in Unit 7?" |
+| in-house | done within a company by its own people, not outsourced | 2026-11-09 | "our new in-house project" |
+| turn-based | (of a game) players or sides act one after another in turns | 2026-11-09 | "turn-based combat" |
