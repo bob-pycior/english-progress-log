@@ -671,6 +671,6 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | remind (vs. remember) | "remind" = make someone remember something; "remember" = keep or bring something in your own mind | 2026-11-09 | "Could you remind me what is in Unit 7?" |
 | in-house | done within a company by its own people, not outsourced | 2026-11-09 | "our new in-house project" |
 | turn-based | (of a game) players or sides act one after another in turns | 2026-11-09 | "turn-based combat" |
-| job application (not "job offer") | an application is what you send to an employer; an offer is what the employer gives you | 2026-11-13 | "I sent nine job applications this week." |
+| job application (not "job offer") | an application is what you send to an employer; an offer is what the employer gives you | 2026-11-13 | "She sent a job application." (an employer gives a job offer) |
 | a few / few | "a few" = some (positive); "few" = hardly any (negative) | 2026-11-13 | "I have a few ideas" vs. "I have few ideas" |
 | on the other hand | introduces a contrasting point | 2026-11-13 | used in free conversation (exact sentence not recorded) |
