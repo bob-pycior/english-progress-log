@@ -2,7 +2,7 @@
 
 Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
 
-Last synced: 2026-11-13
+Last synced: 2026-11-18
 
 ---
 
@@ -34,7 +34,9 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-10-28 — Murphy Additional Exercises mixed review (Units 1–6), informal version.** Bob's book pages weren't available, so the review was improvised: 7 mixed-tense Polish→English sentences (7/7 eventually correct, most needed one correction round), a short Q&A, then Bob asking the questions (topic: Dune). Main issues: tense choice in the second half of two-clause sentences ("they still chat" → "were still chatting"); word order with "still" ("is she still working"); past simple question formation ("did she finish", not "is she finished"); 3rd person -s ("she don't"); articles, even in Bob's own spontaneous questions; superlative word order ("most noticeable") — a new pattern to watch alongside "more bigger". **Units 1–6 mixed review is now effectively done — next: Unit 7.** (Optionally do the book's own Additional Exercises later.)
 
-**Next up:** finish Unit 7 (present perfect, in progress since 2026-10-29): has/have agreement (improving) and placement of "just"/"yet" ("been to" is now solid); keep the was/were and do/does singular/plural drill as a recurring warm-up. Also pending: short "bought" pronunciation drill; Bob to send a screenshot of the game's skill-choice screen (for a text-mode session); continue Callan Book 1 Stage 2 from the tallest/biggest tree questions; short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"); overdue baseline speaking check; British expressions/colloquialisms lesson; embedded questions (progressing, first used 2026-10-29). The informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises (~p.300s) can be done later.
+- **2026-11-18 — Fifth Units 1–6 revision round (voice mode), Part A only (Callan-style Q&A U1–U6), plus an extra do/does and have/has drill (Bob's request: Claude asked first, then Bob asked).** Part B (Polish sentences) not started — resume there. Main errors: has/have with singular subjects that look plural ("one of my dogs have", "my studio have" → "has"; "has got" for "got"); prepositions ("On Wednesday evenings", "go to the gym", "at university"); articles ("another studio", "a favourite subject", "a sense of humour", "for lunch"); do/did/done confusion ("did some exercises", not "made"); dropped subject "I"; "call it a day". **Keep drilling has/have with singular subjects like "one of...", "my studio", "my team".** Strengths: "My colleague doesn't have a dog" and "Does my colleague have a sense of humor?" correct first time.
+
+**Next up:** resume the fifth Units 1–6 revision round at Part B (Polish sentences), drilling has/have with singular subjects like "one of...", "my studio", "my team"; finish Unit 7 (present perfect, in progress since 2026-10-29): has/have agreement (improving) and placement of "just"/"yet" ("been to" is now solid); keep the was/were and do/does singular/plural drill as a recurring warm-up. Also pending: short "bought" pronunciation drill; Bob to send a screenshot of the game's skill-choice screen (for a text-mode session); continue Callan Book 1 Stage 2 from the tallest/biggest tree questions; short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"); overdue baseline speaking check; British expressions/colloquialisms lesson; embedded questions (progressing, first used 2026-10-29). The informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises (~p.300s) can be done later.
 
 ---
 
@@ -622,6 +624,31 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 
 ---
 
+- **2026-11-18** (voice mode, synced afterwards):
+  - Sync: the github.io link could not be opened by voice Claude; the github.com repository link worked (so the repo's README.md, which mirrors this log, is the link for voice Claude).
+  - Grammar: fifth Units 1–6 revision round, Part A only (Callan-style Q&A U1–U6: looking at / holding / sitting; dinner time, who cooks, team meetings; Wednesday evenings vs this evening; first game Numbala — remember / know / belong; when he made Numbala, worked with a team; what he was doing at university). Part B (Polish sentences) not started — resume there next time.
+  - Extra drill (Bob's request): Callan-style do/does and have/has. Claude asked first, then Bob asked the questions.
+  - Errors (mostly self-corrected after a hint):
+    - "At Wednesday evening" → "On Wednesday evenings"; "go for a gym" → "go to the gym"
+    - "belongs to other studio" → "another studio"
+    - "I did Numbala" → "I made Numbala"
+    - "working on university" → "at university"
+    - "On the previous lesson, we made some exercise" → "In the previous lesson, we did some exercises" (do/did/done confusion: said "does", "done")
+    - "my studio got a website" → "has got"; "my studio have" → "has"; "something around 12" → "around 12"
+    - "one of my dogs have" → "has" (Bob thought "one of my dogs" was plural)
+    - "my dog are in the same age" → "my dogs are the same age"
+    - "do you have your/the favourite subject" → "a favourite subject"; "to thinking about" → "to think about"
+    - "relation between dogs and human" → "the relationship between dogs and humans/people"
+    - "he have a sense of humor" → "he has a sense of humour" (missing "a", then "the")
+    - dropped subject "I" again; "for a lunch" → "for lunch" (self-corrected)
+    - "call for a day" → "call it a day" (answer given)
+  - Strengths: "My colleague doesn't have a dog", "Do my dogs prefer me or [...]?", "Does my colleague have a sense of humor?" correct first time.
+  - Vocabulary encountered: another, call it a day, relationship, fiancée, sense of humour, do/did/done, around/about (added to vocabulary.md).
+  - Callan: no book material this session. Position unchanged (tallest/biggest tree questions).
+  - Next: Part B onward of the Units 1–6 revision; keep drilling has/have with singular subjects like "one of...", "my studio", "my team". Unit 7 (present perfect) still in progress.
+
+---
+
 ## Callan Method Tracker
 
 - **Current Stage:** Stage 2 (Book 1 covers Stages 1–2)
@@ -674,3 +701,10 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
 | job application (not "job offer") | an application is what you send to an employer; an offer is what the employer gives you | 2026-11-13 | "She sent a job application." (an employer gives a job offer) |
 | a few / few | "a few" = some (positive); "few" = hardly any (negative) | 2026-11-13 | "I have a few ideas" vs. "I have few ideas" |
 | on the other hand | introduces a contrasting point | 2026-11-13 | used in free conversation (exact sentence not recorded) |
+| another | one more, or a different one (singular) — "another studio", not "other studio" | 2026-11-18 | "It belongs to another studio." |
+| call it a day | stop working for today | 2026-11-18 | "Let's call it a day." |
+| relationship | the connection between people or things | 2026-11-18 | "the relationship between dogs and people" |
+| fiancée | a woman who is engaged to be married (a man is a fiancé) | 2026-11-18 | Bob's lesson vocabulary (sentence not recorded) |
+| sense of humour | the ability to find things funny (UK spelling; US "humor") | 2026-11-18 | "He has a sense of humour." |
+| do / did / done | do (present), did (past), done (past participle); we "do" exercises, not "make" them | 2026-11-18 | "In the previous lesson, we did some exercises." |
+| around / about | both mean "approximately"; not "something around" | 2026-11-18 | "around 12" / "about 12" |
