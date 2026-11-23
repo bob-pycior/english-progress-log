@@ -3,11 +3,10 @@
 **START HERE — key facts (read this block first):**
 
 - Last synced: 2026-11-23
-- Most recent session: 2026-11-23 — Problem: voice Claude could not open the log reliably. On 2026-11-18 the repository link worked but the github.io link did not; on 2026-11-23 the repository link was refused, because voice Claude's fetch tool opens only addresses …
-- Most recent lesson: 2026-11-18 — Grammar: fifth Units 1–6 revision round, Part A only (Callan-style Q&A U1–U6: looking at / holding / sitting; dinner time, who cooks, team meetings; Wednesday evenings vs this evening; first game Numbala — remember / know / …
-- Current Murphy unit: Unit 7 — Present perfect (have/has + past participle) — IN PROGRESS; status: Started 2026-10-29 (not yet completed). Units 1–6 completed.
+- Most recent session: 2026-11-23 — Grammar: fifth Units 1–6 revision round, PART B (Polish → English), fast drill, one sentence at a time. ALL 6 UNITS DONE (60 sentences). The sentences are recorded below in English as given in the notes; the Polish prompts were …
+- Current Murphy unit: Unit 7 — Present perfect (have/has + past participle) — IN PROGRESS; status: Started 2026-10-29 (not yet completed); to be started fresh in the next lesson (Bob's decision, 2026-11-23). Units 1–6 completed.
 - Current Callan stage: Stage 2 (Book 1 covers Stages 1–2); Book 1; position: continuing past cheap/expensive, begin/end/last, inside/outside, many/few, too...to — exact page/question number still not recorded, worth noting next session
-- Next step: see "Next steps" below (first item: Resume the fifth Units 1–6 revision round at Part B (Polish-to-English sentences). Part A (Callan-style Q&A) is done.)
+- Next step: see "Next steps" below (first item: Start Murphy Unit 7 (present perfect) fresh in the next lesson. Bob decided on 2026-11-23 to stop revising Units 1–6 and move forward.)
 
 How to read this log: every question set and Polish sentence set already used is listed under its date in the Session Log. Do not repeat them. The Session Log runs from oldest to newest, so the last entry is the most recent. Sections: Grammar Progress, Revision log, Next steps, Session Log, Callan Method Tracker, Vocabulary.
 
@@ -27,7 +26,7 @@ Tracks units completed, when, and recurring errors seen in each unit.
 | 4 | Verbs not normally used in the continuous form (know, want, need, believe, understand, remember, belong, contain, consist, depend, seem, prefer) | 2026-09-21 | **Two main recurring patterns to target next — came up repeatedly across all rounds:** (1) 3rd person singular agreement, missing -s (e.g. "understand" instead of "understands"); (2) do/does question formation (do with singular subjects, does with plural; extra -s after does, e.g. "does he needs" instead of "does he need"). Also: missing possessive apostrophe-s ("people problems" instead of "people's problems", "team budget" instead of "team's budget"); missing/wrong articles ("new employee" instead of "a new employee"); occasional vocabulary mix-ups (advertise vs. advertisement, consist of vs. contains from). A focused do-vs-does oral drill (2 rounds, no translation) was already conducted this session — Bob reported not yet fully comfortable with it, so **flag do/does question formation for continued practice in upcoming sessions.** |
 | 5 | Past simple (regular/irregular verbs; positive/negative/question forms; didn't + base form) | 2026-09-22 | Strong session — 15/15 translation sentences, mostly correct first try. Recurring: article errors with non-specific/uncountable nouns (e.g. "the interesting movie" instead of "an interesting movie", "the coffee and tea" instead of "coffee and tea"); irregular past tense mix-ups under pressure ("both" for "bought", "bring" not converted to "brought") — both self-corrected after a hint; tense mismatch in subordinate clauses (e.g. "before we leave" instead of "before we left"). do/does question formation (flagged in Unit 4) was not specifically retested this session. |
 | 6 | Past continuous (was/were + -ing; interrupted actions with past simple) | 2026-09-24 | Strong session — 5/5 translation sentences correct, all oral drills eventually correct, good self-correction throughout. Recurring: article errors with meals ("a dinner" instead of "dinner", occurred twice); subject-verb agreement ("they was working" instead of "they were working"); vague time expressions ("at night" instead of a specific hour, needed prompting); early construction slips mixing up which clause takes past continuous vs. past simple in interrupted-action sentences, resolved with guided correction. **Units 1–6 (present/past tense group) now COMPLETE** — next: Murphy's "Additional Exercises" mixed review drill (Units 1–6, ~p.300s) before starting Unit 7. |
-| 7 | Present perfect (have/has + past participle) — **IN PROGRESS** | Started 2026-10-29 (not yet completed) | Theory covered: present perfect for unspecified time / past-relevant-to-now results vs. past simple for finished/specified time. Errors so far: articles (still the most frequent slip, even inside new structures: "such a big tree", "a new level"); has/have agreement with plural subjects ("have your parents"); dropped subject "I" (fixed after pausing); "yet" vs. "just" and placement of "just"; "enter" takes no preposition ("enter my home"); "respond to", not "respond on"; "made" (not "done") for game levels; existential word order ("There are eight trees in my garden", not "In my garden are eight trees" — recurring). **First embedded question** ("Have you ever wondered how it feels...") — initial word-order error, then corrected. Next: "yet", "already", "just" in more depth; keep do/does warm-up. **2026-11-09 (first lesson after a one-week break):** do/does warm-up needed several attempts after the break (do→does, "a mobile games"); 10-sentence present perfect set with "yet", "already", "just", "never", "been to" — most needed one correction, several correct first try. New patterns: **"been to" (not "been in/at")**, has/have agreement with singular subjects (twice), placement of "never", tense of the second clause ("I have lost my phone and I can't find it"). Free conversation corrections: "did some cleaning" (not "made"), "I decided that I would take a break" (backshift), "he doesn't write code", "a question" (not "a questions"). Pronunciation: "bought" repeatedly said as "both/boat/board" — new, unresolved, see Callan tracker. Embedded questions: first used successfully 2026-10-29, so progressing rather than pending. **2026-11-13:** do/does warm-up all correct (one article + verb-form fix); two 5-sentence present perfect sets — "been to" pattern now solid, has/have agreement improving; remaining slips: article with "the United States", placement of "just" and "yet". Bob asked why "I haven't received an answer yet" takes present perfect (explained: present relevance) and why plural nouns sometimes still need "the" — good rule internalization. **New recurring drill (Bob's request):** was/were and do/does with singular vs. plural subjects — Bob kept saying "roles was", "offers was" in free speech; the 5-sentence singular→plural transformation drill was all correct first try, so he knows the rule in isolation and the fix is a brief pause before the verb. Repeat as a short warm-up in upcoming lessons. |
+| 7 | Present perfect (have/has + past participle) — **IN PROGRESS** | Started 2026-10-29 (not yet completed); to be started fresh in the next lesson (Bob's decision, 2026-11-23) | Theory covered: present perfect for unspecified time / past-relevant-to-now results vs. past simple for finished/specified time. Errors so far: articles (still the most frequent slip, even inside new structures: "such a big tree", "a new level"); has/have agreement with plural subjects ("have your parents"); dropped subject "I" (fixed after pausing); "yet" vs. "just" and placement of "just"; "enter" takes no preposition ("enter my home"); "respond to", not "respond on"; "made" (not "done") for game levels; existential word order ("There are eight trees in my garden", not "In my garden are eight trees" — recurring). **First embedded question** ("Have you ever wondered how it feels...") — initial word-order error, then corrected. Next: "yet", "already", "just" in more depth; keep do/does warm-up. **2026-11-09 (first lesson after a one-week break):** do/does warm-up needed several attempts after the break (do→does, "a mobile games"); 10-sentence present perfect set with "yet", "already", "just", "never", "been to" — most needed one correction, several correct first try. New patterns: **"been to" (not "been in/at")**, has/have agreement with singular subjects (twice), placement of "never", tense of the second clause ("I have lost my phone and I can't find it"). Free conversation corrections: "did some cleaning" (not "made"), "I decided that I would take a break" (backshift), "he doesn't write code", "a question" (not "a questions"). Pronunciation: "bought" repeatedly said as "both/boat/board" — new, unresolved, see Callan tracker. Embedded questions: first used successfully 2026-10-29, so progressing rather than pending. **2026-11-13:** do/does warm-up all correct (one article + verb-form fix); two 5-sentence present perfect sets — "been to" pattern now solid, has/have agreement improving; remaining slips: article with "the United States", placement of "just" and "yet". Bob asked why "I haven't received an answer yet" takes present perfect (explained: present relevance) and why plural nouns sometimes still need "the" — good rule internalization. **New recurring drill (Bob's request):** was/were and do/does with singular vs. plural subjects — Bob kept saying "roles was", "offers was" in free speech; the 5-sentence singular→plural transformation drill was all correct first try, so he knows the rule in isolation and the fix is a brief pause before the verb. Repeat as a short warm-up in upcoming lessons. |
 
 ## Revision log
 
@@ -45,16 +44,20 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-11-18 — Fifth Units 1–6 revision round (voice mode), Part A only (Callan-style Q&A U1–U6), plus an extra do/does and have/has drill (Bob's request: Claude asked first, then Bob asked).** Part B (Polish sentences) not started — resume there. Main errors: has/have with singular subjects that look plural ("one of my dogs have", "my studio have" → "has"; "has got" for "got"); prepositions ("On Wednesday evenings", "go to the gym", "at university"); articles ("another studio", "a favourite subject", "a sense of humour", "for lunch"); do/did/done confusion ("did some exercises", not "made"); dropped subject "I"; "call it a day". **Keep drilling has/have with singular subjects like "one of...", "my studio", "my team".** Strengths: "My colleague doesn't have a dog" and "Does my colleague have a sense of humor?" correct first time.
 
+- **2026-11-23 — Fifth Units 1–6 revision round, PART B (Polish → English), 10 sentences per unit, 60 in total, all six units done (voice mode).** Tenses were correct in nearly every sentence; do/does/did forms were strong; Bob self-corrected almost every error after a hint. Main patterns: prepositions ("to the gym" for the third session in a row; "for dinner", "listen to", "think about", "work on", "into the room"), articles (a / the / no article, e.g. "a book", "the train", "mobile games"), question word order ("why are your colleagues…", "why didn't you call…"), and no "did" with was/were ("where were you"). Other slips: 3rd person -s after do/does ("does your brother own"), "I'll call you back" (not "I call"), the embedded question "where my keys are", "I think you're right" (not "I'm thinking"). **Decision: Bob stopped revising Units 1–6 and will move forward. Parts C and D of the fifth round are dropped. Murphy Unit 7 (present perfect) starts fresh in the next lesson.**
+
 ## Next steps
 
-1. Resume the fifth Units 1–6 revision round at Part B (Polish-to-English sentences). Part A (Callan-style Q&A) is done.
-2. Keep drilling has/have with singular subjects that look plural ("one of my dogs", "my studio", "my team"), and do/does question formation.
-3. Finish Murphy Unit 7 (present perfect): placement of "just" and "yet". The "been to" pattern is now solid.
-4. Keep the was/were and do/does singular/plural drill as a short warm-up (Bob's request, 2026-11-13).
-5. Short pronunciation drill on "bought" (open since 2026-11-09).
-6. Continue Callan Book 1, Stage 2 from the tallest/biggest tree questions, and record the page/question number.
-7. Short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable").
-8. Still pending: baseline speaking check (overdue), British expressions/colloquialisms lesson, embedded questions (progressing — first used 2026-10-29), a screenshot for text-mode feedback, and the book's own Additional Exercises (~p.300s; an informal Units 1–6 mixed review was done 2026-10-28).
+1. Start Murphy Unit 7 (present perfect) fresh in the next lesson. Bob decided on 2026-11-23 to stop revising Units 1–6 and move forward.
+2. Baseline speaking check (overdue).
+3. Log vocabulary: keep adding the words that come up in each lesson to the vocabulary list.
+4. Record the exact Callan page/question number. The position so far: Book 1, Stage 2, continuing from the tallest/biggest tree questions.
+5. Keep an eye on the main error patterns: prepositions (to the gym, listen to, work on), articles, has/have with singular subjects ("one of my dogs", "my studio"), and question word order.
+6. Keep the was/were and do/does singular/plural drill as a short warm-up (Bob's request, 2026-11-13).
+7. Short pronunciation drill on "bought" (open since 2026-11-09).
+8. Short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable").
+9. Still pending: British expressions/colloquialisms lesson, embedded questions (progressing — first used 2026-10-29; "where my keys are" slipped on 2026-11-23), and the book's own Additional Exercises (~p.300s).
+10. At the start of each voice session, Bob pastes the "START HERE" block from the README, because voice Claude cannot read the live log page.
 
 ---
 
@@ -672,7 +675,90 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
   - Findings: the log was never stuck. It was published after every logged session (2026-10-19, 10-20, 10-22, 10-27, 10-28, 10-29, 11-09, 11-13, 11-18), and all public addresses showed "Last synced: 2026-11-18". A web search for the repository name does not return the repository, and the Pages copy carries a robots.txt that asks search engines not to index it. The "2026-10-19" view most likely came from an old cached copy on the voice side.
   - Changes: the publish routine was rebuilt as a script that sets "Last synced" automatically, a "key facts" block now sits at the very top of the log, and the next steps moved into their own file (Progress/next-steps.md).
   - Exercises and sentence sets covered: none.
-  - Open decision (Bob): whether to let search engines index the Pages copy (remove robots.txt) so a search can return it.
+  - Decision (Bob): leave robots.txt as it is. The repository front page is indexed by search anyway; the problem is that search engines show an old saved copy of it.
+
+---
+
+- **2026-11-23 (voice mode lesson)** (synced afterwards):
+  - Troubleshooting at the start of the session: voice Claude could not read the log text, because its search and fetch tools return an old saved copy of the repository page (file list only). Fix agreed: Bob pastes the "START HERE" block from the README at the start of each session. Also agreed: put "Last synced" and the current Murphy unit into the repository description (done on 2026-11-23; the publish script now updates it each time).
+  - Grammar: fifth Units 1–6 revision round, PART B (Polish → English), fast drill, one sentence at a time. ALL 6 UNITS DONE (60 sentences). The sentences are recorded below in English as given in the notes; the Polish prompts were not recorded. (Avoid repeating these sets.)
+  - Unit 1 — present continuous:
+    1. I'm writing an email to my boss now.
+    2. My dogs aren't sleeping, they're playing in the garden.
+    3. Is your colleague working from home today?
+    4. What are you doing in the studio?
+    5. I'm not listening because I'm reading a book.
+    6. Where is your brother living now?
+    7. They aren't working this week, they're on holiday.
+    8. Is it raining now?
+    9. My father isn't watching TV, he's playing on the computer.
+    10. Why are your colleagues laughing?
+  - Unit 1 errors: "aren't asleep" → aren't sleeping; "in studio" → in the studio; "the book" → a book; "on holidays" → on holiday; "why your colleagues are" → why are your colleagues.
+  - Unit 2 — present simple:
+    1. My colleague doesn't drink coffee in the morning.
+    2. Do your dogs like long walks?
+    3. She works in a small studio and makes mobile games.
+    4. How often do you go to the gym?
+    5. My parents don't live in Warsaw.
+    6. Does your brother have a dog?
+    7. The train leaves at eight.
+    8. Water boils at 100 degrees.
+    9. What do your colleagues do at weekends?
+    10. My boss doesn't understand my sense of humour.
+  - Unit 2 errors: "at morning" → in the morning; "go for/on the gym" → to the gym; "does your brother owns" → own; "the dog" → a dog; "a train" → the train; "in hundred degree" → at 100 degrees.
+  - Unit 3 — present continuous vs. present simple:
+    1. I usually work in the studio, today I'm working from home.
+    2. My dog usually sleeps at night, now he's barking.
+    3. Does she understand what I'm talking about?
+    4. I usually walk to work, this week I'm taking the bus.
+    5. What are you listening to? / You usually listen to rock.
+    6. She isn't working today because she's ill.
+    7. Who usually cooks dinner at your home?
+    8. I seldom play mobile games, now I'm testing a new game.
+    9. I think you're right. / What are you thinking about?
+    10. I don't usually wear glasses, today I'm wearing them.
+  - Unit 3 errors: "my dog usually sleep" → sleeps; "today/tonight" for "teraz" → now; "is she understand" → does she understand; "to the job" → to work; "listen/listening" without "to"; "the new game" → a new game; "I'm thinking you're right" → I think; "thinking on" → thinking about; "wearing it" (glasses) → them.
+  - Unit 4 — state verbs:
+    1. This phone belongs to my colleague.
+    2. We're eating breakfast, I'll call you back later.
+    3. Do you know where my keys are?
+    4. I need more time to finish this game.
+    5. I can see you but I can't hear you.
+    6. What does this word mean?
+    7. Why are you being so rude today? / You're usually polite.
+    8. She looks/seems tired today.
+    9. How much does this game cost?
+    10. I don't like this music but my brother loves it.
+  - Unit 4 errors: "I call you back later" → I'll call; "where are my keys" (embedded question) → where my keys are; "how much is this game cost" → how much does this game cost; "my brothers loves" → my brother loves.
+  - Unit 5 — past simple:
+    1. Yesterday I worked late in the studio.
+    2. Last week I didn't go to the gym.
+    3. Did you see this film last weekend?
+    4. I bought a new phone two days ago.
+    5. Where were you yesterday evening?
+    6. I didn't understand what my boss said.
+    7. When did you start making mobile games?
+    8. My colleague didn't come to work today.
+    9. What did you eat for dinner?
+    10. Why didn't you call me yesterday?
+  - Unit 5 errors: "didn't went" → didn't go; "on/in the gym" → to the gym; "where did you be / have you been / you were" → where were you (needed several hints); "the mobile games" → mobile games; "on the dinner" → for dinner (answer given); "why you didn't call" → why didn't you call.
+  - Unit 6 — past continuous:
+    1. At eight yesterday evening I was watching a film.
+    2. When you called I was cooking dinner.
+    3. What were you doing when the lights went off?
+    4. I wasn't sleeping when you came home.
+    5. Was it raining when you left work?
+    6. My dogs were barking all night.
+    7. When I was working on the game my boss came into the room.
+    8. What were you doing at this time last year?
+    9. I wasn't listening when the teacher was explaining it.
+    10. When I met [...] she was living in Krakow. (a personal detail is left out of this public log)
+  - Unit 6 errors: "the movie" → a film; "when you call" → called; "wasn't asleep / didn't sleep" → wasn't sleeping; "went from the job/work" → left work; "lived" as the past of leave → left; "working at the game" → on the game; "came to the room" → into the room; "when teacher explaining" → when the teacher was explaining it.
+  - Main patterns today: prepositions ("to the gym" in three sessions, for dinner, listen to, think about, work on, into), articles (a / the / no article), question word order, and no "did" with was/were.
+  - Strengths: tenses correct in nearly every sentence; do/does/did forms strong; Bob self-corrected almost every error after a hint.
+  - Decision: Bob decided to STOP revising Units 1–6 and move forward. Parts C and D of the fifth revision round are dropped.
+  - Callan: no book material this session. Position unchanged (exact page/question number still not recorded).
+  - Next step: start Murphy Unit 7 (present perfect) fresh in the next lesson. Still pending: baseline speaking check (overdue), vocabulary logging, Callan exact page/question number.
 
 ---
 
