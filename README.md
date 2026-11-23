@@ -1,8 +1,17 @@
-# English Progress Summary — Bob
+# English Progress Log — Bob
 
-Combined export of the Progress folder (vocabulary.md, grammar-progress.md, session-log.md, callan-tracker.md). Published at https://bob-pycior.github.io/english-progress-log/progress-summary.md so Claude can read it automatically at the start of each session.
+**START HERE — key facts (read this block first):**
 
-Last synced: 2026-11-18
+- Last synced: 2026-11-23
+- Most recent session: 2026-11-23 — Problem: voice Claude could not open the log reliably. On 2026-11-18 the repository link worked but the github.io link did not; on 2026-11-23 the repository link was refused, because voice Claude's fetch tool opens only addresses …
+- Most recent lesson: 2026-11-18 — Grammar: fifth Units 1–6 revision round, Part A only (Callan-style Q&A U1–U6: looking at / holding / sitting; dinner time, who cooks, team meetings; Wednesday evenings vs this evening; first game Numbala — remember / know / …
+- Current Murphy unit: Unit 7 — Present perfect (have/has + past participle) — IN PROGRESS; status: Started 2026-10-29 (not yet completed). Units 1–6 completed.
+- Current Callan stage: Stage 2 (Book 1 covers Stages 1–2); Book 1; position: continuing past cheap/expensive, begin/end/last, inside/outside, many/few, too...to — exact page/question number still not recorded, worth noting next session
+- Next step: see "Next steps" below (first item: Resume the fifth Units 1–6 revision round at Part B (Polish-to-English sentences). Part A (Callan-style Q&A) is done.)
+
+How to read this log: every question set and Polish sentence set already used is listed under its date in the Session Log. Do not repeat them. The Session Log runs from oldest to newest, so the last entry is the most recent. Sections: Grammar Progress, Revision log, Next steps, Session Log, Callan Method Tracker, Vocabulary.
+
+Published from Bob's lesson folder at https://github.com/bob-pycior/english-progress-log. Plain text version: https://raw.githubusercontent.com/bob-pycior/english-progress-log/main/README.md
 
 ---
 
@@ -36,7 +45,16 @@ Tracks units completed, when, and recurring errors seen in each unit.
 
 - **2026-11-18 — Fifth Units 1–6 revision round (voice mode), Part A only (Callan-style Q&A U1–U6), plus an extra do/does and have/has drill (Bob's request: Claude asked first, then Bob asked).** Part B (Polish sentences) not started — resume there. Main errors: has/have with singular subjects that look plural ("one of my dogs have", "my studio have" → "has"; "has got" for "got"); prepositions ("On Wednesday evenings", "go to the gym", "at university"); articles ("another studio", "a favourite subject", "a sense of humour", "for lunch"); do/did/done confusion ("did some exercises", not "made"); dropped subject "I"; "call it a day". **Keep drilling has/have with singular subjects like "one of...", "my studio", "my team".** Strengths: "My colleague doesn't have a dog" and "Does my colleague have a sense of humor?" correct first time.
 
-**Next up:** resume the fifth Units 1–6 revision round at Part B (Polish sentences), drilling has/have with singular subjects like "one of...", "my studio", "my team"; finish Unit 7 (present perfect, in progress since 2026-10-29): has/have agreement (improving) and placement of "just"/"yet" ("been to" is now solid); keep the was/were and do/does singular/plural drill as a recurring warm-up. Also pending: short "bought" pronunciation drill; Bob to send a screenshot of the game's skill-choice screen (for a text-mode session); continue Callan Book 1 Stage 2 from the tallest/biggest tree questions; short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable"); overdue baseline speaking check; British expressions/colloquialisms lesson; embedded questions (progressing, first used 2026-10-29). The informal Units 1–6 mixed review was done 2026-10-28; the book's own Additional Exercises (~p.300s) can be done later.
+## Next steps
+
+1. Resume the fifth Units 1–6 revision round at Part B (Polish-to-English sentences). Part A (Callan-style Q&A) is done.
+2. Keep drilling has/have with singular subjects that look plural ("one of my dogs", "my studio", "my team"), and do/does question formation.
+3. Finish Murphy Unit 7 (present perfect): placement of "just" and "yet". The "been to" pattern is now solid.
+4. Keep the was/were and do/does singular/plural drill as a short warm-up (Bob's request, 2026-11-13).
+5. Short pronunciation drill on "bought" (open since 2026-11-09).
+6. Continue Callan Book 1, Stage 2 from the tallest/biggest tree questions, and record the page/question number.
+7. Short drills on existential word order ("there are" / "can sit") and superlative/comparative word order ("most noticeable").
+8. Still pending: baseline speaking check (overdue), British expressions/colloquialisms lesson, embedded questions (progressing — first used 2026-10-29), a screenshot for text-mode feedback, and the book's own Additional Exercises (~p.300s; an informal Units 1–6 mixed review was done 2026-10-28).
 
 ---
 
@@ -646,6 +664,15 @@ Dated log of what was practiced each session, so exercises/pages aren't repeated
   - Vocabulary encountered: another, call it a day, relationship, fiancée, sense of humour, do/did/done, around/about (added to vocabulary.md).
   - Callan: no book material this session. Position unchanged (tallest/biggest tree questions).
   - Next: Part B onward of the Units 1–6 revision; keep drilling has/have with singular subjects like "one of...", "my studio", "my team". Unit 7 (present perfect) still in progress.
+
+---
+
+- **2026-11-23** (text session with Claude Code; no lesson content — sync troubleshooting only):
+  - Problem: voice Claude could not open the log reliably. On 2026-11-18 the repository link worked but the github.io link did not; on 2026-11-23 the repository link was refused, because voice Claude's fetch tool opens only addresses that a web search returned. A view of the log dated "2026-10-19" was also reported on 2026-11-18.
+  - Findings: the log was never stuck. It was published after every logged session (2026-10-19, 10-20, 10-22, 10-27, 10-28, 10-29, 11-09, 11-13, 11-18), and all public addresses showed "Last synced: 2026-11-18". A web search for the repository name does not return the repository, and the Pages copy carries a robots.txt that asks search engines not to index it. The "2026-10-19" view most likely came from an old cached copy on the voice side.
+  - Changes: the publish routine was rebuilt as a script that sets "Last synced" automatically, a "key facts" block now sits at the very top of the log, and the next steps moved into their own file (Progress/next-steps.md).
+  - Exercises and sentence sets covered: none.
+  - Open decision (Bob): whether to let search engines index the Pages copy (remove robots.txt) so a search can return it.
 
 ---
 
